@@ -32,3 +32,5 @@
 | 14 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 15 | GFG. K-th element of two Arrays | GeeksforGeeks | Binary Search | N/A | Java (21) |
+
+| 16 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
