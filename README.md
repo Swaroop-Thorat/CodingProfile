@@ -34,3 +34,5 @@
 | 15 | GFG. K-th element of two Arrays | GeeksforGeeks | Binary Search | N/A | Java (21) |
 
 | 16 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
+
+| 17 | A. You Delete, I Delete | Codeforces | *800 | N/A | C++ |
