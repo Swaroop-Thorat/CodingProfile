@@ -12,3 +12,5 @@
 | 4 | 11. Container With Most Water | LeetCode | Two Pointers | Medium | Choose a type |
 
 | 5 | GFG. Pairs with Less Than K Diff | GeeksforGeeks | Arrays | N/A | Java (21) |
+
+| 6 | GFG. Factorial | GeeksforGeeks | Mathematical | N/A | Java (21) |
