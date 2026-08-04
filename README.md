@@ -28,3 +28,5 @@
 | 12 | GFG. Sum of Array | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 13 | 12. Integer to Roman | LeetCode | Hash Table | Medium | Choose a type |
+
+| 14 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | Java (21) |
