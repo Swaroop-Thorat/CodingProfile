@@ -22,3 +22,5 @@
 | 9 | A. Jellyfish and Undertale | Codeforces | *900 | N/A | C++ |
 
 | 10 | 3731. Find Missing Elements | LeetCode | Array | Easy | Choose a type |
+
+| 11 | 9. Palindrome Number | LeetCode | Math | Easy | Choose a type |
