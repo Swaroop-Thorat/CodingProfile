@@ -30,3 +30,5 @@
 | 13 | 12. Integer to Roman | LeetCode | Hash Table | Medium | Choose a type |
 
 | 14 | GFG. Replace all 0's with 5 | GeeksforGeeks | Arrays | N/A | Java (21) |
+
+| 15 | GFG. K-th element of two Arrays | GeeksforGeeks | Binary Search | N/A | Java (21) |
