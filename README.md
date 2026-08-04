@@ -16,3 +16,5 @@
 | 6 | GFG. Factorial | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 7 | extra-long-factorials. Extra Long Factorials | HackerRank | Maths | N/A | N/A |
+
+| 8 | A. Threshold Movement | Codeforces | *800 | N/A | C++ |
