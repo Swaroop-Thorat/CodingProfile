@@ -1,22 +1,34 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
+
 using namespace std;
 
 void solve() {
     int n;
     cin >> n;
-    int w1, w2;
-    
-    cin >> w1;
-    if (n >= 2) {
-        cin >> w2;
+    vector<int> w(n);
+    for (int i = 0; i < n; i++) {
+        cin >> w[i];
     }
-    
-    for (int i = 3; i <= n; i++) {
-        int temp;
-        cin >> temp;
+
+    if (n % 2 != 0) {
+        cout << "NO\n";
+        return;
     }
-    
-    if (w1 > w2) {
+
+    int max_even = 0;          
+    int min_odd = 2e9;         
+
+    for (int i = 0; i < n; i++) {
+        if ((i + 1) % 2 == 0) {
+            max_even = max(max_even, w[i]);
+        } else {
+            min_odd = min(min_odd, w[i]);
+        }
+    }
+
+    if (max_even + 1 < min_odd) {
         cout << "YES\n";
     } else {
         cout << "NO\n";
