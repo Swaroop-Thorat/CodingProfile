@@ -18,3 +18,5 @@
 | 7 | extra-long-factorials. Extra Long Factorials | HackerRank | Maths | N/A | N/A |
 
 | 8 | A. Threshold Movement | Codeforces | *800 | N/A | C++ |
+
+| 9 | A. Jellyfish and Undertale | Codeforces | *900 | N/A | C++ |
