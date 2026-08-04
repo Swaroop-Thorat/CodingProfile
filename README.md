@@ -10,3 +10,5 @@
 | 3 | 4. Median of Two Sorted Arrays | LeetCode | Array | Hard | Choose a type |
 
 | 4 | 11. Container With Most Water | LeetCode | Two Pointers | Medium | Choose a type |
+
+| 5 | GFG. Pairs with Less Than K Diff | GeeksforGeeks | Arrays | N/A | Java (21) |
