@@ -14,3 +14,5 @@
 | 5 | GFG. Pairs with Less Than K Diff | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 6 | GFG. Factorial | GeeksforGeeks | Mathematical | N/A | Java (21) |
+
+| 7 | extra-long-factorials. Extra Long Factorials | HackerRank | Maths | N/A | N/A |
