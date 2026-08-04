@@ -24,3 +24,5 @@
 | 10 | 3731. Find Missing Elements | LeetCode | Array | Easy | Choose a type |
 
 | 11 | 9. Palindrome Number | LeetCode | Math | Easy | Choose a type |
+
+| 12 | GFG. Sum of Array | GeeksforGeeks | Arrays | N/A | Java (21) |
