@@ -50,3 +50,5 @@
 | 23 | GFG. Segregate Evens and Odds in a Linked List | GeeksforGeeks | Linked List | N/A | Java (21) |
 
 | 24 | GFG. Subarrays with Sum in Range | GeeksforGeeks | sliding-window | N/A | Java (21) |
+
+| 25 | 61. Rotate List | LeetCode | Linked List | Medium | Choose a type |
