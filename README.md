@@ -56,3 +56,5 @@
 | 26 | 31. Next Permutation | LeetCode | Array | Medium | Choose a type |
 
 | 27 | A. Simons and Making It Beautiful | Codeforces | *800 | N/A | GNU G++17 7.3.0 |
+
+| 28 | GFG. All Subsequences of a String | GeeksforGeeks | Mathematical | N/A | Java (21) |
