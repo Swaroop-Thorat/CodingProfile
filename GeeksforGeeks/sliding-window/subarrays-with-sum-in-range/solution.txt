@@ -1,0 +1,25 @@
+class Solution {
+    public int countSubarray(int[] arr, int l, int r) {
+        // code here
+        int left=counts(arr,l);
+        int right=counts(arr,r+1);
+        
+        return right-left;
+    }
+    static int counts(int[] arr,int tar){
+        int count=0;
+        int sum=0;
+        int l=0;
+        
+        for(int i=0;i<arr.length;i++){
+            sum+=arr[i];
+            
+            while(l<=i && sum>=tar){
+                sum-=arr[l++];
+            }
+            
+            count+=(i-l+1);
+        }
+        return count;
+    }
+}
