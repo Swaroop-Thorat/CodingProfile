@@ -36,3 +36,5 @@
 | 16 | 19. Remove Nth Node From End of List | LeetCode | Linked List | Medium | Choose a type |
 
 | 17 | A. You Delete, I Delete | Codeforces | *800 | N/A | C++ |
+
+| 18 | 6. Zigzag Conversion | LeetCode | String | Medium | Choose a type |
