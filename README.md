@@ -60,3 +60,5 @@
 | 28 | GFG. All Subsequences of a String | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 29 | A. Candies for Nephews | Codeforces | *800 | N/A | GNU G++17 7.3.0 |
+
+| 30 | 20. Valid Parentheses | LeetCode | Stack | Easy | Choose a type |
