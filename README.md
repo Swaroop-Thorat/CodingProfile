@@ -54,3 +54,5 @@
 | 25 | 61. Rotate List | LeetCode | Linked List | Medium | Choose a type |
 
 | 26 | 31. Next Permutation | LeetCode | Array | Medium | Choose a type |
+
+| 27 | A. Simons and Making It Beautiful | Codeforces | *800 | N/A | GNU G++17 7.3.0 |
