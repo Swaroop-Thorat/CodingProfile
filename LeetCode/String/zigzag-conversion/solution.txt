@@ -1,0 +1,34 @@
+class Solution {
+    public String convert(String s, int numRows) {
+        StringBuilder[] pattern=new StringBuilder[numRows];
+        Arrays.setAll(pattern, i -> new StringBuilder());
+        if(numRows>=s.length() || numRows==1) return s;
+        int col=numRows-1;
+        for(int i=0;i<s.length();i++){
+          if(col==0){
+            while(i<s.length() && col<numRows-1){
+                pattern[col].append(s.charAt(i));
+                col++;
+                i++;
+            }
+            i--;
+          }
+          else{
+            while(i<s.length() && col>0){
+                pattern[col].append(s.charAt(i));
+                col--;
+                i++;
+            }
+            i--;
+          }
+        }
+
+        StringBuilder res=new StringBuilder();
+
+        for(int i=numRows-1;i>=0;i--){
+            res.append(pattern[i]);
+        }
+
+        return res.toString();
+    }
+}
