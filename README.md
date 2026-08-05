@@ -39,4 +39,4 @@
 
 | 18 | 6. Zigzag Conversion | LeetCode | String | Medium | Choose a type |
 
-| 19 | A. Doremy's Paint 3 | Codeforces | constructive algorithms | N/A | C++ |
+| 19 | A. Doremy's Paint 3 | Codeforces | *800 | N/A | C++ |
