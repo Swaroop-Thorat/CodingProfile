@@ -44,3 +44,5 @@
 | 20 | 21. Merge Two Sorted Lists | LeetCode | Linked List | Easy | Choose a type |
 
 | 21 | 7. Reverse Integer | LeetCode | Math | Medium | Choose a type |
+
+| 22 | 15. 3Sum | LeetCode | Array | Medium | Choose a type |
