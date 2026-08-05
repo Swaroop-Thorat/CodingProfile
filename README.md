@@ -46,3 +46,5 @@
 | 21 | 7. Reverse Integer | LeetCode | Math | Medium | Choose a type |
 
 | 22 | 15. 3Sum | LeetCode | Array | Medium | Choose a type |
+
+| 23 | GFG. Segregate Evens and Odds in a Linked List | GeeksforGeeks | Linked List | N/A | Java (21) |
