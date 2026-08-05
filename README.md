@@ -38,3 +38,5 @@
 | 17 | A. You Delete, I Delete | Codeforces | *800 | N/A | C++ |
 
 | 18 | 6. Zigzag Conversion | LeetCode | String | Medium | Choose a type |
+
+| 19 | A. Doremy's Paint 3 | Codeforces | constructive algorithms | N/A | C++ |
