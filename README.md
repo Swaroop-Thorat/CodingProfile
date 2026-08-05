@@ -42,3 +42,5 @@
 | 19 | A. Doremy's Paint 3 | Codeforces | *800 | N/A | C++ |
 
 | 20 | 21. Merge Two Sorted Lists | LeetCode | Linked List | Easy | Choose a type |
+
+| 21 | 7. Reverse Integer | LeetCode | Math | Medium | Choose a type |
