@@ -1,0 +1,18 @@
+class Solution {
+    public List<String> powerSet(String s) {
+        // Code here
+        List<String> list=new ArrayList<>();
+        seq(list,s,new StringBuilder(),0);
+        Collections.sort(list);
+        return list;
+    }
+    static void seq(List<String> list,String s, StringBuilder curr,int idx){
+        if(idx==s.length()){
+            list.add(curr.toString());
+            return;
+        }
+        seq(list,s,curr.append(s.charAt(idx)),idx+1);
+        seq(list,s,curr.deleteCharAt(curr.length() - 1),idx+1);
+    }
+     
+}
