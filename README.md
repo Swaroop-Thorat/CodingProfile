@@ -52,3 +52,5 @@
 | 24 | GFG. Subarrays with Sum in Range | GeeksforGeeks | sliding-window | N/A | Java (21) |
 
 | 25 | 61. Rotate List | LeetCode | Linked List | Medium | Choose a type |
+
+| 26 | 31. Next Permutation | LeetCode | Array | Medium | Choose a type |
