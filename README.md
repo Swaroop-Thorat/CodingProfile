@@ -68,3 +68,5 @@
 | 32 | A. Watermelon | Codeforces | *800 | N/A | Java 21 64bit |
 
 | 33 | A. Way Too Long Words | Codeforces | *800 | N/A | Java 21 64bit |
+
+| 34 | A. Team | Codeforces | *800 | N/A | Java 21 64bit |
