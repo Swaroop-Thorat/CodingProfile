@@ -1,0 +1,54 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+public class Codechef
+{
+    static Scanner sc = new Scanner(System.in);
+    
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    int t = sc.nextInt();
+        while (t-- > 0) {
+            solve();
+        }
+
+	}
+    static void solve() {
+        long n=sc.nextLong();
+        
+        if(n<=1){
+            System.out.println(0);
+        }
+        else if(n<10){
+            System.out.println(n-1);
+        }
+        else if(n<100){
+            System.out.println(n-10);
+        }
+        else if(n<1000){
+            System.out.println(n-100);
+        }
+        else if(n<10000){
+            System.out.println(n-1000);
+        }
+        else if(n<100000){
+            System.out.println(n-10000);
+        }
+        else if(n<1000000){
+            System.out.println(n-100000);
+        }
+        else if(n<10000000){
+            System.out.println(n-1000000);
+        }
+        else if(n<100000000){
+            System.out.println(n-10000000);
+        }
+        else if(n<1000000000){
+            System.out.println(n-100000000);
+        }
+        else{
+            System.out.println(0);
+        }
+    }
+}
