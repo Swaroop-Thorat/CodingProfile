@@ -80,3 +80,5 @@
 | 38 | B. Round Down the Price | Codeforces | *800 | N/A | C++ |
 
 | 39 | 3345. Smallest Divisible Digit Product I | LeetCode | Math | Easy | Choose a type |
+
+| 40 | 1561. Maximum Number of Coins You Can Get | LeetCode | Sorting | Medium | Choose a type |
