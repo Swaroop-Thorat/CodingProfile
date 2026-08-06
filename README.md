@@ -74,3 +74,5 @@
 | 35 | A. Professor GukiZ's Robot | Codeforces | *800 | N/A | Java 21 64bit |
 
 | 36 | A. Round Down the Price | Codeforces | *800 | N/A | Java 21 64bit |
+
+| 37 | A. Telephone Number | Codeforces | *800 | N/A | Java 21 64bit |
