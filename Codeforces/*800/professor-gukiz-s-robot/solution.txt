@@ -1,0 +1,50 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+public class Codechef
+{
+    static Scanner sc = new Scanner(System.in);
+    
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    int x1=sc.nextInt();
+	    int y1=sc.nextInt();
+	    int x2=sc.nextInt();
+	    int y2=sc.nextInt();
+	    int ans=0;
+	    
+	    int rD=Math.abs(x1-x2);
+	    int cD=Math.abs(y1-y2);
+	    
+	    
+	    if(rD<cD){
+	        ans+=rD;
+	        if(y1>y2){
+	            y2+=rD;
+	        }
+	        else{
+	            y1+=rD;
+	        }
+	        
+	        cD=Math.abs(y1-y2);
+	        ans+=cD;
+	    }
+	    else if(rD>cD){
+	        ans+=cD;
+	        if(x1>x2){
+	            x2+=cD;
+	        }
+	        else{
+	            x1+=cD;
+	        }
+	        
+	        rD=Math.abs(x1-x2);
+	        ans+=rD;
+	    }
+	   else{
+	       ans+=rD;
+	   }
+     System.out.println(ans);
+	}
+}
