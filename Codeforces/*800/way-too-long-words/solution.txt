@@ -1,0 +1,25 @@
+import java.lang.*;
+import java.util.*;
+
+public class AWayTooLongWords {
+    static Scanner sc = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            solve();
+        }
+    }
+
+    static void solve() {
+        String str=sc.next();
+        if(str.length()<=10){
+            System.out.println(str);
+        }
+        else{
+            int len=str.length();
+            String res=str.charAt(0)+String.valueOf(len-2)+str.charAt(len-1);
+            System.out.println(res);
+        }
+    }
+}
