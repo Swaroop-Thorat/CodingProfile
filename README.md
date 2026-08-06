@@ -78,3 +78,5 @@
 | 37 | A. Telephone Number | Codeforces | *800 | N/A | Java 21 64bit |
 
 | 38 | B. Round Down the Price | Codeforces | *800 | N/A | C++ |
+
+| 39 | 3345. Smallest Divisible Digit Product I | LeetCode | Math | Easy | Choose a type |
