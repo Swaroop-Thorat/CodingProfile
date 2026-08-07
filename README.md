@@ -86,3 +86,5 @@
 | 41 | 33. Search in Rotated Sorted Array | LeetCode | Binary Search | Medium | Choose a type |
 
 | 42 | 41. First Missing Positive | LeetCode | Hash Table | Hard | Choose a type |
+
+| 43 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
