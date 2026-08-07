@@ -104,3 +104,5 @@
 | 50 | D. Distinct Split | Codeforces | *1000 | N/A | Java 21 64bit |
 
 | 51 | D. Friends and the Restaurant | Codeforces | *1200 | N/A | Java 21 64bit |
+
+| 52 | 38. Count and Say | LeetCode | String | Medium | Choose a type |
