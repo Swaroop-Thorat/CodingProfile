@@ -88,3 +88,5 @@
 | 42 | 41. First Missing Positive | LeetCode | Hash Table | Hard | Choose a type |
 
 | 43 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
+
+| 44 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
