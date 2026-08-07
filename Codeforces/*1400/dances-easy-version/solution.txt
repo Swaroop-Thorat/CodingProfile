@@ -1,0 +1,43 @@
+import java.util.*;
+
+public class Main {
+
+    static Scanner sc=new Scanner(System.in);
+    public static void main(String[] args) {
+      int t=sc.nextInt();
+      while(t-->0){
+        solve();
+      }
+    }
+
+    static void solve(){
+      int n=sc.nextInt();
+      int m=sc.nextInt();
+
+      int[] x=new int[n];
+      int[] y=new int[n];
+
+      x[0]=1;
+      for(int i=1;i<n;i++){
+          x[i]=sc.nextInt();
+      }
+      for(int i=0;i<n;i++){
+          y[i]=sc.nextInt();
+      }
+
+     Arrays.sort(x);
+     Arrays.sort(y);
+     int i=0,j=0;
+     while(i<n && j<n){
+      if(x[i]<y[j]){
+        i++;
+        j++;
+      }
+      else{
+        j++;
+      }
+     }
+
+     System.out.println(n-i);
+    }
+}
