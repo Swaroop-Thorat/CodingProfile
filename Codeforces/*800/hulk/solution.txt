@@ -1,0 +1,35 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+public class Codechef
+{
+	static Scanner sc = new Scanner(System.in);
+	
+	public static void main (String[] args) throws java.lang.Exception
+	{
+        int t = sc.nextInt();
+        String hate="I hate ";
+        String love="I love ";
+        StringBuilder sb=new StringBuilder();
+        for(int i=1;i<=t;i++){
+            if(i%2!=0){
+                sb.append(hate);
+            }
+            else{
+                sb.append(love);
+            }
+            
+            
+            if(i!=t){
+                sb.append("that ");
+            }
+        }
+        
+        sb.append("it");
+        
+        System.out.println(sb.toString());
+    }
+    
+
+}
