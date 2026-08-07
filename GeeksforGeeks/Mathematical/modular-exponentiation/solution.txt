@@ -1,0 +1,20 @@
+class Solution {
+    public int powMod(int x, int n, int M) {
+        // code here
+        long ans = 1;
+        long base = x % M; 
+        long power = n;
+
+        while (power > 0) {
+            if (power % 2 == 1) {
+                ans = (ans * base) % M;
+            }
+            
+            power = power / 2;
+            
+            base = (base * base) % M;
+        }
+
+        return (int) ans;
+    }
+}
