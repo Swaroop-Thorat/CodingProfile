@@ -100,3 +100,5 @@
 | 48 | A. Hulk | Codeforces | *800 | N/A | Java 21 64bit |
 
 | 49 | A. From Hero to Zero | Codeforces | *900 | N/A | Java 21 64bit |
+
+| 50 | D. Distinct Split | Codeforces | *1000 | N/A | Java 21 64bit |
