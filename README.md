@@ -84,3 +84,5 @@
 | 40 | 1561. Maximum Number of Coins You Can Get | LeetCode | Sorting | Medium | Choose a type |
 
 | 41 | 33. Search in Rotated Sorted Array | LeetCode | Binary Search | Medium | Choose a type |
+
+| 42 | 41. First Missing Positive | LeetCode | Hash Table | Hard | Choose a type |
