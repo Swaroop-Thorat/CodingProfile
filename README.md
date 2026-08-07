@@ -106,3 +106,5 @@
 | 51 | D. Friends and the Restaurant | Codeforces | *1200 | N/A | Java 21 64bit |
 
 | 52 | 38. Count and Say | LeetCode | String | Medium | Choose a type |
+
+| 53 | GFG. Modular Exponentiation | GeeksforGeeks | Mathematical | N/A | Java (21) |
