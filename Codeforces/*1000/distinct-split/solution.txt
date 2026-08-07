@@ -1,0 +1,75 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+public class Codechef
+{
+	static Scanner sc = new Scanner(System.in);
+	
+	public static void main (String[] args) throws java.lang.Exception
+	{
+        int t = sc.nextInt();
+        while(t-- > 0){
+            solve();
+        }
+    }
+    
+    static void solve(){
+       int n=sc.nextInt();
+       String st=sc.next();
+       
+       Set<Character> set=new HashSet<>();
+       
+       int[] pre=new int[n+1];
+       int[] post=new int[n+1];
+       
+       for(int i=1;i<=n;i++){
+           boolean has=false;
+           if(!set.contains(st.charAt(i-1))){
+               has=true;
+           }
+           
+           if(has){
+               pre[i]=pre[i-1]+1;
+           }
+           else{
+               pre[i]=pre[i-1];
+           }
+           
+           set.add(st.charAt(i-1));
+       }
+       
+         
+       
+       set.clear();
+       
+       for(int i=n-1;i>=0;i--){
+           boolean has=false;
+           if(!set.contains(st.charAt(i))){
+               has=true;
+           }
+           
+           if(has){
+               post[i]=post[i+1]+1;
+           }
+           else{
+               post[i]=post[i+1];
+           }
+           
+           set.add(st.charAt(i));
+       }
+       
+    //   for(int i=0;i<=n;i++){
+    //       System.out.print(post[i]+",");
+    //   }
+    //       System.out.println();
+      int max=-1;
+      for(int i=1;i<n;i++){
+          max=Math.max(max,post[i]+pre[i]);
+        //   System.out.print(pre[i]+","+post[i]+":");
+      }
+       
+      System.out.println(max);
+    }
+
+}
