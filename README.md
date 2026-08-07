@@ -94,3 +94,5 @@
 | 45 | 53. Maximum Subarray | LeetCode | Array | Medium | Choose a type |
 
 | 46 | B. From Hero to Zero | Codeforces | Math | N/A | Java 21 64bit |
+
+| 47 | G1. Dances (Easy version) | Codeforces | *1400 | N/A | Java 21 64bit |
