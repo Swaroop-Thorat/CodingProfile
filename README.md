@@ -122,3 +122,5 @@
 | 59 | java-1d-array-introduction. Java 1D Array | HackerRank | Array | N/A | N/A |
 
 | 60 | GFG. Largest rectangle of 1s with swapping of columns allowed | GeeksforGeeks | Arrays | N/A | Java (21) |
+
+| 61 | GFG. Implement k Queues in a Single Array | GeeksforGeeks | Queue | N/A | Java (21) |
