@@ -118,3 +118,5 @@
 | 57 | duplicate-word. Java Regex 2 - Duplicate Words | HackerRank | String | N/A | N/A |
 
 | 58 | java-loops-i. Java Loops I | HackerRank | Maths | N/A | N/A |
+
+| 59 | java-1d-array-introduction. Java 1D Array | HackerRank | Array | N/A | N/A |
