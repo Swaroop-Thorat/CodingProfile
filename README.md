@@ -120,3 +120,5 @@
 | 58 | java-loops-i. Java Loops I | HackerRank | Maths | N/A | N/A |
 
 | 59 | java-1d-array-introduction. Java 1D Array | HackerRank | Array | N/A | N/A |
+
+| 60 | GFG. Largest rectangle of 1s with swapping of columns allowed | GeeksforGeeks | Arrays | N/A | Java (21) |
