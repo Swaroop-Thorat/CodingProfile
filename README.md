@@ -128,3 +128,5 @@
 | 62 | GFG. Minimum Candy Distribution | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 63 | GFG. Largest Zigzag Sequence | GeeksforGeeks | Dynamic Programming | N/A | Java (21) |
+
+| 64 | 143. Reorder List | LeetCode | Linked List | Medium | Choose a type |
