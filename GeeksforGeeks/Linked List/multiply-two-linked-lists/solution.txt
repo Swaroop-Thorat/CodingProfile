@@ -1,0 +1,32 @@
+/* Node Structure
+class Node {
+    int data;
+    Node next;
+    Node(int key) {
+        data = key;
+        next = null;
+    }
+} 
+*/
+class Solution {
+    int multiplyTwoLists(Node first, Node second) {
+        // Code here
+        long n1=0;
+        long n2=0;
+        while(first!=null){
+            n1*=10;
+            n1=n1+first.data;
+            first=first.next;
+        }
+        
+        while(second!=null){
+            n2*=10;
+            n2+=second.data;
+            second=second.next;
+        }
+        
+        int MOD=(int) 1e9 + 7;
+        
+        return (int)((n1*n2)%MOD);
+    }
+}
