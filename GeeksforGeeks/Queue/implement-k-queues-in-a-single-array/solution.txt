@@ -1,0 +1,69 @@
+class kQueues {
+    int[] arr;
+    int[] next;
+    int[] front;
+    int[] rear;
+    int free;
+    int n, k;
+
+    kQueues(int n, int k) {
+        this.n = n;
+        this.k = k;
+        arr = new int[n];
+        next = new int[n];
+        front = new int[k];
+        rear = new int[k];
+
+        for (int i = 0; i < k; i++) {
+            front[i] = rear[i] = -1;
+        }
+
+        for (int i = 0; i < n - 1; i++) {
+            next[i] = i + 1;
+        }
+        next[n - 1] = -1;
+        free = 0;
+    }
+
+    void enqueue(int x, int i) {
+        if (isFull()) return;
+
+        int slot = free;
+        free = next[free];
+
+        arr[slot] = x;
+        next[slot] = -1;
+
+        if (front[i] == -1) {
+            front[i] = slot;
+        } else {
+            next[rear[i]] = slot;
+        }
+        rear[i] = slot;
+    }
+
+    int dequeue(int i) {
+        if (isEmpty(i)) return -1;
+
+        int slot = front[i];
+        int val = arr[slot];
+
+        front[i] = next[slot];
+        if (front[i] == -1) {
+            rear[i] = -1;
+        }
+
+        next[slot] = free;
+        free = slot;
+
+        return val;
+    }
+
+    boolean isEmpty(int i) {
+        return front[i] == -1;
+    }
+
+    boolean isFull() {
+        return free == -1;
+    }
+}
