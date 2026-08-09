@@ -1,0 +1,23 @@
+class Solution {
+    int maxArea(boolean[][] mat, int r, int c) {
+        int[] height = new int[c];
+        int maxRect = 0;
+
+        for (int i = 0; i < r; i++) {
+            for (int j = 0; j < c; j++) {
+                if (mat[i][j]) height[j]++;
+                else height[j] = 0;
+            }
+
+            int[] sorted = height.clone();
+            Arrays.sort(sorted);  
+
+            for (int j = 1; j <= c; j++) {
+                int area = sorted[c - j] * j;
+                maxRect = Math.max(maxRect, area);
+            }
+        }
+
+        return maxRect;
+    }
+}
