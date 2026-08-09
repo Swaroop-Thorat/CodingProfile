@@ -130,3 +130,5 @@
 | 63 | GFG. Largest Zigzag Sequence | GeeksforGeeks | Dynamic Programming | N/A | Java (21) |
 
 | 64 | 143. Reorder List | LeetCode | Linked List | Medium | Choose a type |
+
+| 65 | 160. Intersection of Two Linked Lists | LeetCode | Linked List | Easy | Choose a type |
