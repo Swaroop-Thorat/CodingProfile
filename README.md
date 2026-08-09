@@ -114,3 +114,5 @@
 | 55 | time-conversion. Time Conversion | HackerRank | String | N/A | N/A |
 
 | 56 | java-regex. Java Regex | HackerRank | String | N/A | N/A |
+
+| 57 | duplicate-word. Java Regex 2 - Duplicate Words | HackerRank | String | N/A | N/A |
