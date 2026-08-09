@@ -110,3 +110,5 @@
 | 53 | GFG. Modular Exponentiation | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 54 | compare-the-triplets. Compare the Triplets | HackerRank | Array | N/A | N/A |
+
+| 55 | time-conversion. Time Conversion | HackerRank | String | N/A | N/A |
