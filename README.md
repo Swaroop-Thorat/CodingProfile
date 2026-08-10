@@ -152,3 +152,5 @@
 | 74 | 82. Remove Duplicates from Sorted List II | LeetCode | Linked List | Medium | Choose a type |
 
 | 75 | 84. Largest Rectangle in Histogram | LeetCode | Stack | Hard | Choose a type |
+
+| 76 | 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | LeetCode | Queue | Medium | Choose a type |
