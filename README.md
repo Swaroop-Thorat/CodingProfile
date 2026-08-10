@@ -146,3 +146,5 @@
 | 71 | 86. Partition List | LeetCode | Linked List | Medium | Choose a type |
 
 | 72 | 148. Sort List | LeetCode | Linked List | Medium | Choose a type |
+
+| 73 | 328. Odd Even Linked List | LeetCode | Linked List | Medium | Choose a type |
