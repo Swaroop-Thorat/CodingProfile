@@ -144,3 +144,5 @@
 | 70 | GFG. Sort a linked list of 0s, 1s and 2s | GeeksforGeeks | Linked List | N/A | Java (21) |
 
 | 71 | 86. Partition List | LeetCode | Linked List | Medium | Choose a type |
+
+| 72 | 148. Sort List | LeetCode | Linked List | Medium | Choose a type |
