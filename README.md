@@ -142,3 +142,5 @@
 | 69 | 42. Trapping Rain Water | LeetCode | Two Pointers | Hard | Choose a type |
 
 | 70 | GFG. Sort a linked list of 0s, 1s and 2s | GeeksforGeeks | Linked List | N/A | Java (21) |
+
+| 71 | 86. Partition List | LeetCode | Linked List | Medium | Choose a type |
