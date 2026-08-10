@@ -140,3 +140,5 @@
 | 68 | 234. Palindrome Linked List | LeetCode | Linked List | Easy | Choose a type |
 
 | 69 | 42. Trapping Rain Water | LeetCode | Two Pointers | Hard | Choose a type |
+
+| 70 | GFG. Sort a linked list of 0s, 1s and 2s | GeeksforGeeks | Linked List | N/A | Java (21) |
