@@ -148,3 +148,5 @@
 | 72 | 148. Sort List | LeetCode | Linked List | Medium | Choose a type |
 
 | 73 | 328. Odd Even Linked List | LeetCode | Linked List | Medium | Choose a type |
+
+| 74 | 82. Remove Duplicates from Sorted List II | LeetCode | Linked List | Medium | Choose a type |
