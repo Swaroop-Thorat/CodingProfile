@@ -156,3 +156,5 @@
 | 76 | 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | LeetCode | Queue | Medium | Choose a type |
 
 | 77 | 2965. Find Missing and Repeated Values | LeetCode | Matrix | Easy | Choose a type |
+
+| 78 | 152. Maximum Product Subarray | LeetCode | Array | Medium | Choose a type |
