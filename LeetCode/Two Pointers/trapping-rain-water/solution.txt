@@ -1,0 +1,18 @@
+class Solution {
+    public int trap(int[] heights) {
+        int l=0,r=heights.length-1,lmax=heights[0],rmax=heights[heights.length-1],count=0;
+        while(l<r){
+            lmax=Math.max(lmax,heights[l]);
+            rmax=Math.max(rmax,heights[r]);
+            if(lmax>rmax){
+                count+=rmax-heights[r];
+                r--;
+            }
+            else{
+                count+=lmax-heights[l];
+                l++;
+            }
+        }
+        return count;
+    }
+}
