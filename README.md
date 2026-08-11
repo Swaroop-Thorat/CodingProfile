@@ -164,3 +164,5 @@
 | 80 | GFG. 1 to n Without Loops | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 81 | GFG. Nth Fibonacci Using Recursion | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 82 | GFG. Power Using Recursion | GeeksforGeeks | Recursion | N/A | Java (21) |
