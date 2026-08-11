@@ -158,3 +158,5 @@
 | 77 | 2965. Find Missing and Repeated Values | LeetCode | Matrix | Easy | Choose a type |
 
 | 78 | 152. Maximum Product Subarray | LeetCode | Array | Medium | Choose a type |
+
+| 79 | 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum | LeetCode | Array | Easy | Choose a type |
