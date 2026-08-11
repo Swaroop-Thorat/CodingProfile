@@ -168,3 +168,5 @@
 | 82 | GFG. Power Using Recursion | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 83 | GFG. First n Terms of a Recursive Series | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 84 | GFG. Missing in Array | GeeksforGeeks | Arrays | N/A | Java (21) |
