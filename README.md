@@ -160,3 +160,5 @@
 | 78 | 152. Maximum Product Subarray | LeetCode | Array | Medium | Choose a type |
 
 | 79 | 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum | LeetCode | Array | Easy | Choose a type |
+
+| 80 | GFG. 1 to n Without Loops | GeeksforGeeks | Recursion | N/A | Java (21) |
