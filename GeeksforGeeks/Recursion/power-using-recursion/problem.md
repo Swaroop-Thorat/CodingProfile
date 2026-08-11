@@ -1,0 +1,20 @@
+# GFG. Power Using Recursion
+**Platform:** GeeksforGeeks
+**Difficulty:** N/A
+**Topic:** Recursion
+
+## Problem Statement
+You are given two numbers n and p. You need to find np.
+
+Examples:
+
+Input: n = 9, p = 9 
+Output: 387420489
+Explanation: 9 raised to power 9 is 387420489.
+Input: n = 2, p = 9
+Output: 512
+Explanation: 2 raised to power 9 is 512.
+
+Constraints:
+1 ≤ n ≤ 10
+0 ≤  p ≤ 9
