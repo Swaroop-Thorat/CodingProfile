@@ -174,3 +174,5 @@
 | 85 | GFG. Delete Mid of a Stack | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 86 | GFG. Josephus problem | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 87 | GFG. Print n to 1 without loop | GeeksforGeeks | Recursion | N/A | Java (21) |
