@@ -180,3 +180,5 @@
 | 88 | GFG. Problem Solved Successfully | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 89 | GFG. Count Digits in a Number | GeeksforGeeks | Mathematical | N/A | Java (21) |
+
+| 90 | GFG. Digital Root | GeeksforGeeks | Recursion | N/A | Java (21) |
