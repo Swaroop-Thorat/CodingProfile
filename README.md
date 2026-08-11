@@ -166,3 +166,5 @@
 | 81 | GFG. Nth Fibonacci Using Recursion | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 82 | GFG. Power Using Recursion | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 83 | GFG. First n Terms of a Recursive Series | GeeksforGeeks | Recursion | N/A | Java (21) |
