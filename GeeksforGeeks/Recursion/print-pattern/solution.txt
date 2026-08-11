@@ -1,0 +1,17 @@
+class Solution {
+    public ArrayList<Integer> pattern(int n) {
+        // code here
+        ArrayList<Integer> list =new ArrayList<>();
+        rec(list,n);
+        return list;
+    }
+    static void rec(ArrayList<Integer> list,int n){
+        if(n<=0){
+            list.add(n);
+            return;
+        }
+        list.add(n);
+        rec(list,n-5);
+        list.add(n);
+    }
+}
