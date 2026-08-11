@@ -172,3 +172,5 @@
 | 84 | GFG. Missing in Array | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 85 | GFG. Delete Mid of a Stack | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 86 | GFG. Josephus problem | GeeksforGeeks | Recursion | N/A | Java (21) |
