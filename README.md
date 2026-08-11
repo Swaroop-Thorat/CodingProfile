@@ -182,3 +182,5 @@
 | 89 | GFG. Count Digits in a Number | GeeksforGeeks | Mathematical | N/A | Java (21) |
 
 | 90 | GFG. Digital Root | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 91 | 2807. Insert Greatest Common Divisors in Linked List | LeetCode | Linked List | Medium | Choose a type |
