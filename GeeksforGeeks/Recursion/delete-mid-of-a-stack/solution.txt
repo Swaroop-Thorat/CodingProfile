@@ -1,0 +1,15 @@
+class Solution {
+    public void deleteMid(Stack<Integer> s) {
+        // code here
+        rec(s,s.size()/2,0);
+    }
+    static void rec(Stack<Integer> s,int size, int idx){
+        if(idx==size){
+            s.pop();
+            return;
+        }
+        int num=s.pop();
+        rec(s,size,idx+1);
+        s.push(num);
+    }
+}
