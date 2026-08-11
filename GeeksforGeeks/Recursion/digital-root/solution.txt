@@ -1,0 +1,13 @@
+class Solution {
+    public int digitalRoot(int n) {
+        // code here
+        int sum=0;
+        while(n>0){
+            sum+=(n%10);
+            n/=10;
+        }
+        if(sum<10) return sum;
+        
+        return digitalRoot(sum);
+    }
+};
