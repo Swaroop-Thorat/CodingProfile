@@ -204,3 +204,5 @@
 | 100 | 103. Binary Tree Zigzag Level Order Traversal | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 101 | 543. Diameter of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 102 | 100. Same Tree | LeetCode | Binary Tree | Easy | Choose a type |
