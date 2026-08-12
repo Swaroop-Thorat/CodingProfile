@@ -198,3 +198,5 @@
 | 97 | 104. Maximum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 98 | 111. Minimum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 99 | 102. Binary Tree Level Order Traversal | LeetCode | Binary Tree | Medium | Choose a type |
