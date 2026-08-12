@@ -206,3 +206,5 @@
 | 101 | 543. Diameter of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 102 | 100. Same Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 103 | 101. Symmetric Tree | LeetCode | Binary Tree | Easy | Choose a type |
