@@ -218,3 +218,5 @@
 | 107 | 2958. Length of Longest Subarray With at Most K Frequency | LeetCode | Hash Table | Medium | Choose a type |
 
 | 108 | GFG. Longest Consecutive Path in Binary tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 109 | GFG. Sum of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
