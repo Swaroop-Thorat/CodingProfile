@@ -214,3 +214,5 @@
 | 105 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 106 | 199. Binary Tree Right Side View | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 107 | 2958. Length of Longest Subarray With at Most K Frequency | LeetCode | Hash Table | Medium | Choose a type |
