@@ -194,3 +194,5 @@
 | 95 | 145. Binary Tree Postorder Traversal | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 96 | 94. Binary Tree Inorder Traversal | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 97 | 104. Maximum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
