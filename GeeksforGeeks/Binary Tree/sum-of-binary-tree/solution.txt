@@ -1,0 +1,27 @@
+/* Definition for Node
+class Node {
+    int data;
+    Node left;
+    Node right;
+    Node(int val) {
+        data = val;
+        left = null;
+        right = null;
+    }
+} */
+
+class Solution {
+    static int sum=0;
+    static int sumBT(Node root) {
+        // code here
+        sum=0;
+        dfs(root);
+        return sum;
+    }
+    static void dfs(Node node){
+        if(node==null) return;
+        sum+=node.data;
+        dfs(node.left); 
+        dfs(node.right); 
+    }
+}
