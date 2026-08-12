@@ -212,3 +212,5 @@
 | 104 | 226. Invert Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 105 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 106 | 199. Binary Tree Right Side View | LeetCode | Binary Tree | Medium | Choose a type |
