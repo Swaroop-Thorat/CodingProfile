@@ -200,3 +200,5 @@
 | 98 | 111. Minimum Depth of Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 99 | 102. Binary Tree Level Order Traversal | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 100 | 103. Binary Tree Zigzag Level Order Traversal | LeetCode | Binary Tree | Medium | Choose a type |
