@@ -190,3 +190,5 @@
 | 93 | GFG. Print Pattern | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 94 | 144. Binary Tree Preorder Traversal | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 95 | 145. Binary Tree Postorder Traversal | LeetCode | Binary Tree | Easy | Choose a type |
