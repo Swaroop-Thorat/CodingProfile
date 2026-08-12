@@ -208,3 +208,5 @@
 | 102 | 100. Same Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 103 | 101. Symmetric Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 104 | 226. Invert Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
