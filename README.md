@@ -220,3 +220,5 @@
 | 108 | GFG. Longest Consecutive Path in Binary tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
 
 | 109 | GFG. Sum of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 110 | 124. Binary Tree Maximum Path Sum | LeetCode | Binary Tree | Hard | Choose a type |
