@@ -230,3 +230,5 @@
 | 113 | GFG. Top View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
 
 | 114 | 987. Vertical Order Traversal of a Binary Tree | LeetCode | Binary Tree | Hard | Choose a type |
+
+| 115 | 515. Find Largest Value in Each Tree Row | LeetCode | Binary Tree | Medium | Choose a type |
