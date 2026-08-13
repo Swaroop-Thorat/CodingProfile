@@ -228,3 +228,5 @@
 | 112 | 572. Subtree of Another Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 113 | GFG. Top View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 114 | 987. Vertical Order Traversal of a Binary Tree | LeetCode | Binary Tree | Hard | Choose a type |
