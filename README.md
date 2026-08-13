@@ -232,3 +232,5 @@
 | 114 | 987. Vertical Order Traversal of a Binary Tree | LeetCode | Binary Tree | Hard | Choose a type |
 
 | 115 | 515. Find Largest Value in Each Tree Row | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 116 | GFG. Recursive Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
