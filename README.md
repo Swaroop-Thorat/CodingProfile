@@ -236,3 +236,5 @@
 | 116 | GFG. Recursive Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 117 | GFG. Juggler Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 118 | GFG. Raise to Power of Its Own Reverse | GeeksforGeeks | Recursion | N/A | Java (21) |
