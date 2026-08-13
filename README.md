@@ -226,3 +226,5 @@
 | 111 | GFG. Tree Boundary Traversal | GeeksforGeeks | Binary Tree | N/A | Java (21) |
 
 | 112 | 572. Subtree of Another Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 113 | GFG. Top View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
