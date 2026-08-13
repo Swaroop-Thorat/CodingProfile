@@ -1,0 +1,57 @@
+/* Node Structure
+class Node {
+    int data;
+    Node left, right;
+
+    Node(int val) {
+        data = val;
+        left = right = null;
+    }
+} */
+
+class Solution {
+    public ArrayList<Integer> boundaryTraversal(Node root) {
+        // code here
+        ArrayList<Integer> list=new ArrayList<>();
+        list.add(root.data);
+        if(root.left==null && root.right==null) return list;
+        leftDFS(list,root.left);
+        dfs(list,root);
+        rightDFS(list,root.right);
+        return list;
+    }
+    void leftDFS(ArrayList<Integer> list,Node root){
+        if(root==null) return;
+        if(root.left==null && root.right==null) return;
+        list.add(root.data);
+        if(root.left!=null){
+            leftDFS(list,root.left);
+        }
+        else{
+            leftDFS(list,root.right);
+        }
+    }
+    
+    int dfs(ArrayList<Integer> list,Node root){
+        if(root==null) return 0;
+        int left=dfs(list,root.left);
+        int right=dfs(list,root.right);
+        if(left==0 && right==0) list.add(root.data);
+        
+        return root.data;
+    }
+    
+    
+    void rightDFS(ArrayList<Integer> list,Node root){
+        if(root==null) return;
+        if(root.left==null && root.right==null) return;
+        if(root.right!=null){
+            rightDFS(list,root.right);
+        }
+        else{
+            rightDFS(list,root.left);
+        }
+        list.add(root.data);
+    }
+    
+}
