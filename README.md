@@ -234,3 +234,5 @@
 | 115 | 515. Find Largest Value in Each Tree Row | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 116 | GFG. Recursive Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 117 | GFG. Juggler Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
