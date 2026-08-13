@@ -224,3 +224,5 @@
 | 110 | 124. Binary Tree Maximum Path Sum | LeetCode | Binary Tree | Hard | Choose a type |
 
 | 111 | GFG. Tree Boundary Traversal | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 112 | 572. Subtree of Another Tree | LeetCode | Binary Tree | Easy | Choose a type |
