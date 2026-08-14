@@ -246,3 +246,5 @@
 | 121 | 113. Path Sum II | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 122 | 129. Sum Root to Leaf Numbers | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 123 | GFG. Left View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
