@@ -248,3 +248,5 @@
 | 122 | 129. Sum Root to Leaf Numbers | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 123 | GFG. Left View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 124 | GFG. Bottom View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
