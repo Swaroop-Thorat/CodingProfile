@@ -240,3 +240,5 @@
 | 118 | GFG. Raise to Power of Its Own Reverse | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 119 | 112. Path Sum | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 120 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
