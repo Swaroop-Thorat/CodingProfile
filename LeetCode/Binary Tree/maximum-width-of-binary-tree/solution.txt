@@ -1,0 +1,56 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    class Pair{
+        int dist;
+        TreeNode node;
+        Pair(int dist,TreeNode node){
+            this.node=node;
+            this.dist=dist;
+        }
+    }
+    public int widthOfBinaryTree(TreeNode root) {
+        if(root==null) return 0;
+        Deque<Pair> q=new ArrayDeque<>();
+        q.offerLast(new Pair(0,root));
+        int ans=-1;
+        while(!q.isEmpty()){
+            int size=q.size();
+            int first=q.peekFirst().dist;
+            int last=q.peekLast().dist;
+            ans=Math.max(ans,last-first+1);
+            for(int i=0;i<size;i++){
+                Pair pair=q.pollFirst();
+                TreeNode curr=pair.node;
+                int dist=(pair.dist-first);
+                
+                if(curr.left!=null) q.offerLast(new Pair(2*dist+1,curr.left));
+                if(curr.right!=null) q.offerLast(new Pair(2*dist+2,curr.right));
+            }
+        }
+        return ans;
+    }
+}
+
+/* Distance here is 2x+1 for left and 2x+2 for right because this gives us proper position of index
+   if u notice then number of nodes in each level is twice so 2x(x is current index) +1 for left and +2 for right
+
+   problem: multiply by 2 each time will give integer overflow for index
+   solutions:
+   1)use long
+   2)optimize index - substract index by first index which will work as modulo - 
+                      this works because once we are done with that level we dont need to revisit it!!
+  */
