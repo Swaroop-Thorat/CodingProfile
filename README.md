@@ -244,3 +244,5 @@
 | 120 | 3090. Maximum Length Substring With Two Occurrences | LeetCode | Sliding Window | Easy | Choose a type |
 
 | 121 | 113. Path Sum II | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 122 | 129. Sum Root to Leaf Numbers | LeetCode | Binary Tree | Medium | Choose a type |
