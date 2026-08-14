@@ -256,3 +256,5 @@
 | 126 | 110. Balanced Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
 
 | 127 | 662. Maximum Width of Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 128 | GFG. Subset Sum on Generated Sequence | GeeksforGeeks | Greedy | N/A | Java (21) |
