@@ -238,3 +238,5 @@
 | 117 | GFG. Juggler Sequence | GeeksforGeeks | Recursion | N/A | Java (21) |
 
 | 118 | GFG. Raise to Power of Its Own Reverse | GeeksforGeeks | Recursion | N/A | Java (21) |
+
+| 119 | 112. Path Sum | LeetCode | Binary Tree | Easy | Choose a type |
