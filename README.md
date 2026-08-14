@@ -250,3 +250,5 @@
 | 123 | GFG. Left View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
 
 | 124 | GFG. Bottom View of Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 125 | 429. N-ary Tree Level Order Traversal | LeetCode | Tree | Medium | Choose a type |
