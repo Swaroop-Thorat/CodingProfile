@@ -1,0 +1,48 @@
+/*
+Definition for Node
+class Node {
+    int data;
+    Node left;
+    Node right;
+
+    Node(int val) {
+        data = val;
+        left = right = null;
+
+    }
+}
+*/
+
+class Solution {
+    static class Pair{
+        int dist;
+        Node node;
+        Pair(int dist,Node node){
+            this.dist=dist;
+            this.node=node;
+        }
+    }
+    public ArrayList<Integer> bottomView(Node root) {
+        // code here
+        SortedMap<Integer,Integer> map=new TreeMap<>();
+        bfs(root,map);
+        ArrayList<Integer> list=new ArrayList<>();
+        for(int key:map.keySet()){
+            list.add(map.get(key));
+        }
+        return list;
+    }
+    static void bfs(Node node,SortedMap<Integer,Integer> map){
+        if(node==null) return;
+        Queue<Pair> q=new ArrayDeque<>();
+        q.offer(new Pair(0,node));
+        while(!q.isEmpty()){
+                Pair pair=q.poll();
+                int dist=pair.dist;
+                Node curr=pair.node;
+                map.put(dist,curr.data);
+                if(curr.left!=null) q.offer(new Pair(dist-1,curr.left));
+                if(curr.right!=null) q.offer(new Pair(dist+1,curr.right));
+        }
+    }
+}
