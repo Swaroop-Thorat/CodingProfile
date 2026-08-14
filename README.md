@@ -254,3 +254,5 @@
 | 125 | 429. N-ary Tree Level Order Traversal | LeetCode | Tree | Medium | Choose a type |
 
 | 126 | 110. Balanced Binary Tree | LeetCode | Binary Tree | Easy | Choose a type |
+
+| 127 | 662. Maximum Width of Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
