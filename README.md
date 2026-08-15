@@ -262,3 +262,5 @@
 | 129 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
 
 | 130 | 437. Path Sum III | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 131 | 687. Longest Univalue Path | LeetCode | Binary Tree | Medium | Choose a type |
