@@ -258,3 +258,5 @@
 | 127 | 662. Maximum Width of Binary Tree | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 128 | GFG. Subset Sum on Generated Sequence | GeeksforGeeks | Greedy | N/A | Java (21) |
+
+| 129 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
