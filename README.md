@@ -264,3 +264,5 @@
 | 130 | 437. Path Sum III | LeetCode | Binary Tree | Medium | Choose a type |
 
 | 131 | 687. Longest Univalue Path | LeetCode | Binary Tree | Medium | Choose a type |
+
+| 132 | GFG. Root to Leaf Paths | GeeksforGeeks | Binary Search | N/A | Java (21) |
