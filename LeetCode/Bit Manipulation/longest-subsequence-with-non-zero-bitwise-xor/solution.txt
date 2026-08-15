@@ -1,0 +1,33 @@
+class Solution {
+    public int longestSubsequence(int[] nums) {
+        int n=nums.length;
+        int zero=0;
+        long xor=0;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0) zero++;
+            xor^=nums[i];
+        }
+        if(xor>0) return n;
+        return zero==n?0:n-1;
+    }
+}
+
+/* how xor works: 
+   1)any num ^ 0 == num
+   2)any num ^ same num == 0
+
+   so here what we want to check
+   if all numbers are 0
+   so no matter what we remove 
+   same ^ same will always be 0
+
+   other thing,
+   what we want to do here is if totalXOR is not 0 return it
+   else we will definitly find atlesat one number which is causing it to become zero
+   we will remove that -
+   for example 
+   1) 1,2,3 here 1^2==3 and we have 3 so we will remove any one 1,2 or 3 for non negative ans
+   2)2,2,3,3,4 here if i make 2^2==0  then automatically any num ^ 0 will be non zero
+
+   only 3 ans possible 0,n and n-1
+*/
