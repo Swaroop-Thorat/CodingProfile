@@ -1,0 +1,36 @@
+/* Definition for Node
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int val)
+    {
+        this.data = val;
+        left = null;
+        right = null;
+    }
+}
+*/
+
+class Solution {
+    public ArrayList<ArrayList<Integer>> paths(Node root) {
+        // code here
+        ArrayList<ArrayList<Integer>> ans=new ArrayList<>();
+        dfs(root,ans,new ArrayList<>());
+        return ans;
+    }
+    static void dfs(Node node,ArrayList<ArrayList<Integer>> ans,ArrayList<Integer> list){
+        if(node==null) return;
+        
+        list.add(node.data);
+        
+        if(node.left==null && node.right==null){
+            ans.add(new ArrayList<>(list));
+        }
+        
+        dfs(node.left,ans,list);
+        dfs(node.right,ans,list);
+        list.remove(list.size()-1);
+    }
+}
