@@ -260,3 +260,5 @@
 | 128 | GFG. Subset Sum on Generated Sequence | GeeksforGeeks | Greedy | N/A | Java (21) |
 
 | 129 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
+
+| 130 | 437. Path Sum III | LeetCode | Binary Tree | Medium | Choose a type |
