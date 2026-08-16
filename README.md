@@ -268,3 +268,5 @@
 | 132 | GFG. Root to Leaf Paths | GeeksforGeeks | Binary Search | N/A | Java (21) |
 
 | 133 | GFG. LCA in Binary Tree | GeeksforGeeks | Binary Tree | N/A | Java (21) |
+
+| 134 | GFG. Min Product Subset | GeeksforGeeks | Arrays | N/A | Java (21) |
