@@ -277,4 +277,4 @@
 
 | 137 | 2560. House Robber IV | LeetCode | Binary Search | Medium | Choose a type |
 
-| 138 | 2425. Bitwise XOR of All Pairings | LeetCode | Bit Manipulation | Medium | Java |
+| 138 | 2425. Bitwise XOR of All Pairings | LeetCode | Bit Manipulation | Medium | N/A |
