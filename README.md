@@ -280,3 +280,5 @@
 | 138 | 2425. Bitwise XOR of All Pairings | LeetCode | Bit Manipulation | Medium | Java |
 
 | 139 | 66. Plus One | LeetCode | Array | Easy | Java |
+
+| 140 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Java |
