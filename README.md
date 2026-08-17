@@ -89,7 +89,7 @@
 
 | 43 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
 
-| 44 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
+| 44 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Java |
 
 | 45 | 53. Maximum Subarray | LeetCode | Array | Medium | Choose a type |
 
