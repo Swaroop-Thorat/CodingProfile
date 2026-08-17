@@ -282,3 +282,5 @@
 | 139 | 66. Plus One | LeetCode | Array | Easy | Java |
 
 | 140 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Java |
+
+| 141 | GFG. Sort 0s, 1s and 2s | GeeksforGeeks | Arrays | N/A | Java |
