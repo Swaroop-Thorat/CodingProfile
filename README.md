@@ -272,3 +272,5 @@
 | 134 | GFG. Min Product Subset | GeeksforGeeks | Arrays | N/A | Java (21) |
 
 | 135 | 3227. Vowels Game in a String | LeetCode | Math | Medium | Choose a type |
+
+| 136 | 3828. Final Element After Subarray Deletions | LeetCode | Game Theory | Medium | Choose a type |
