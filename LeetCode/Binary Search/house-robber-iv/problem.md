@@ -15,6 +15,7 @@ You are also given an integer k, representing the minimum number of houses the r
 Return the minimum capability of the robber out of all the possible ways to steal at least k houses.
 
  
+
 Example 1:
 
 Input: nums = [2,3,5,9], k = 2
@@ -35,9 +36,9 @@ Explanation: There are 7 ways to rob the houses. The way which leads to minimum 
 
 
  
+
 Constraints:
 
-
-	1 <= nums.length <= 105
-	1 <= nums[i] <= 109
-	1 <= k <= (nums.length + 1)/2
+1 <= nums.length <= 105
+1 <= nums[i] <= 109
+1 <= k <= (nums.length + 1)/2
