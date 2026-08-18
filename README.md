@@ -284,3 +284,5 @@
 | 140 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Java |
 
 | 141 | GFG. Sort 0s, 1s and 2s | GeeksforGeeks | Arrays | N/A | Java |
+
+| 142 | 3471. Find the Largest Almost Missing Integer | LeetCode | Array | Easy | Java |
