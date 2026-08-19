@@ -290,3 +290,5 @@
 | 143 | GFG. Zero Sum Subarrays | GeeksforGeeks | Hash | N/A | Java |
 
 | 144 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java |
+
+| 145 | 1386. Cinema Seat Allocation | LeetCode | Greedy | Medium | Java |
