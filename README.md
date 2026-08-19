@@ -286,3 +286,5 @@
 | 141 | GFG. Sort 0s, 1s and 2s | GeeksforGeeks | Arrays | N/A | Java |
 
 | 142 | 3471. Find the Largest Almost Missing Integer | LeetCode | Array | Easy | Java |
+
+| 143 | GFG. Zero Sum Subarrays | GeeksforGeeks | Hash | N/A | Java |
