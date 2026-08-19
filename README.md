@@ -288,3 +288,5 @@
 | 142 | 3471. Find the Largest Almost Missing Integer | LeetCode | Array | Easy | Java |
 
 | 143 | GFG. Zero Sum Subarrays | GeeksforGeeks | Hash | N/A | Java |
+
+| 144 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java |
