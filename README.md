@@ -304,3 +304,5 @@
 | 150 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Java |
 
 | 151 | 974. Subarray Sums Divisible by K | LeetCode | Hash Table | Medium | Java |
+
+| 152 | 1590. Make Sum Divisible by P | LeetCode | Hash Table | Medium | Java |
