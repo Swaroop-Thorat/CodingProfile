@@ -312,3 +312,5 @@
 | 154 | 733. Flood Fill | LeetCode | Matrix | Easy | Java |
 
 | 155 | GFG. Sort a stack | GeeksforGeeks | Recursion | N/A | Java |
+
+| 156 | GFG. Reverse a Stack | GeeksforGeeks | Recursion | N/A | Java |
