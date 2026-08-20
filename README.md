@@ -298,3 +298,5 @@
 | 147 | C. Poisoned Dagger | Codeforces | *1200 | N/A | Java |
 
 | 148 | C. K-th Not Divisible by n | Codeforces | *1200 | N/A | Java |
+
+| 149 | GFG. Left Smaller Right Greater | GeeksforGeeks | Arrays | N/A | Java |
