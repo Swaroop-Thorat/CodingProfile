@@ -302,3 +302,5 @@
 | 149 | GFG. Left Smaller Right Greater | GeeksforGeeks | Arrays | N/A | Java |
 
 | 150 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Java |
+
+| 151 | 974. Subarray Sums Divisible by K | LeetCode | Hash Table | Medium | Java |
