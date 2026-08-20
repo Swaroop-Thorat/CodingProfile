@@ -306,3 +306,5 @@
 | 151 | 974. Subarray Sums Divisible by K | LeetCode | Hash Table | Medium | Java |
 
 | 152 | 1590. Make Sum Divisible by P | LeetCode | Hash Table | Medium | Java |
+
+| 153 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Java |
