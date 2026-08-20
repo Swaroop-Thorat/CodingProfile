@@ -63,7 +63,7 @@
 
 | 30 | 20. Valid Parentheses | LeetCode | Stack | Easy | Choose a type |
 
-| 31 | 50. Pow(x, n) | LeetCode | Recursion | Medium | Choose a type |
+| 31 | 50. Pow(x, n) | LeetCode | Recursion | Medium | Java |
 
 | 32 | A. Watermelon | Codeforces | *800 | N/A | Java 21 64bit |
 
