@@ -296,3 +296,5 @@
 | 146 | GFG. Missing And Repeating | GeeksforGeeks | Arrays | N/A | Java |
 
 | 147 | C. Poisoned Dagger | Codeforces | *1200 | N/A | Java |
+
+| 148 | C. K-th Not Divisible by n | Codeforces | *1200 | N/A | Java |
