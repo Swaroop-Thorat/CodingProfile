@@ -300,3 +300,5 @@
 | 148 | C. K-th Not Divisible by n | Codeforces | *1200 | N/A | Java |
 
 | 149 | GFG. Left Smaller Right Greater | GeeksforGeeks | Arrays | N/A | Java |
+
+| 150 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Java |
