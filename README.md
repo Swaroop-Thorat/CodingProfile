@@ -314,3 +314,5 @@
 | 155 | GFG. Sort a stack | GeeksforGeeks | Recursion | N/A | Java |
 
 | 156 | GFG. Reverse a Stack | GeeksforGeeks | Recursion | N/A | Java |
+
+| 157 | 205. Isomorphic Strings | LeetCode | Hash Table | Easy | Java |
