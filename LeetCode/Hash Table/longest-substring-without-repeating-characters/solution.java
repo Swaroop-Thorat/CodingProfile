@@ -5,13 +5,12 @@ class Solution {
         for(int i=0;i<s.length();i++){
           char ch=s.charAt(i);
           if(map.containsKey(ch)){
-            int len=i-j;
-            max=Math.max(max,len); 
             j=Math.max(j,map.get(ch)+1);
           } 
+         int len=i-j+1;
+         max=Math.max(max,len); 
          map.put(ch,i);
         }
-        max=Math.max(max,s.length()-j);
         return max;
     }
 }
