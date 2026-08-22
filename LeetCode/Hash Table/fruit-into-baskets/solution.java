@@ -3,10 +3,7 @@ class Solution {
         Map<Integer,Integer> map=new HashMap<>();
         int j=0,max=0;
         for(int i=0;i<fruits.length;i++){
-            if(!map.containsKey(fruits[i]) && map.size()<2){
-                map.put(fruits[i],i);
-            }
-            else if(map.containsKey(fruits[i])){
+            if(map.size()<2 || map.containsKey(fruits[i])){
                 map.put(fruits[i],i);
             }
             else{
