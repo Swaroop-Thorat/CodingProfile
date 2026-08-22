@@ -318,3 +318,5 @@
 | 157 | 205. Isomorphic Strings | LeetCode | Hash Table | Easy | Java |
 
 | 158 | GFG. Activity Selection | GeeksforGeeks | Greedy | N/A | Java |
+
+| 159 | 904. Fruit Into Baskets | LeetCode | Hash Table | Medium | Java |
