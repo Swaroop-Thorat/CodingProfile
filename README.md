@@ -320,3 +320,5 @@
 | 158 | GFG. Activity Selection | GeeksforGeeks | Greedy | N/A | Java |
 
 | 159 | 904. Fruit Into Baskets | LeetCode | Hash Table | Medium | Java |
+
+| 160 | 3622. Check Divisibility by Digit Sum and Product | LeetCode | Math | Easy | Java |
