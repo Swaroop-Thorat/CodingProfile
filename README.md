@@ -330,3 +330,5 @@
 | 163 | 1456. Maximum Number of Vowels in a Substring of Given Length | LeetCode | Sliding Window | Medium | Java |
 
 | 164 | 567. Permutation in String | LeetCode | Hash Table | Medium | Java |
+
+| 165 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Java |
