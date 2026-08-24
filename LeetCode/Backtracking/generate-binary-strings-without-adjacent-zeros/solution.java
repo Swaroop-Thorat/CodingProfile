@@ -13,6 +13,6 @@ class Solution {
         String s2=str+'1';
         rec(n,idx+1,s2,result);
         String s1=str+'0';
-        if(idx==0 || str.charAt(str.length()-1)=='1') rec(n,idx+1,s1,result);
+        if(str.isEmpty() || str.charAt(str.length()-1)=='1') rec(n,idx+1,s1,result);
     }
 }
