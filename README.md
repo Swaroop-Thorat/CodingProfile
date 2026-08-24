@@ -334,3 +334,5 @@
 | 165 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Java |
 
 | 166 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Java |
+
+| 167 | 3211. Generate Binary Strings Without Adjacent Zeros | LeetCode | Backtracking | Medium | Java |
