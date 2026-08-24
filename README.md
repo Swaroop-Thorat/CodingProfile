@@ -336,3 +336,5 @@
 | 166 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Java |
 
 | 167 | 3211. Generate Binary Strings Without Adjacent Zeros | LeetCode | Backtracking | Medium | Java |
+
+| 168 | GFG. Tower Of Hanoi | GeeksforGeeks | Mathematical | N/A | Java |
