@@ -324,3 +324,5 @@
 | 160 | 3622. Check Divisibility by Digit Sum and Product | LeetCode | Math | Easy | Java |
 
 | 161 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | Java |
+
+| 162 | 438. Find All Anagrams in a String | LeetCode | Hash Table | Medium | Java |
