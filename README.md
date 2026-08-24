@@ -337,4 +337,4 @@
 
 | 167 | 3211. Generate Binary Strings Without Adjacent Zeros | LeetCode | Backtracking | Medium | Java |
 
-| 168 | GFG. Tower Of Hanoi | GeeksforGeeks | Mathematical | N/A | Java |
+| 168 | GFG. Tower Of Hanoi | GeeksforGeeks | Recursion | N/A | Java |
