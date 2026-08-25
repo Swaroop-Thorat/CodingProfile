@@ -344,3 +344,5 @@
 | 170 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Java |
 
 | 171 | 62. Unique Paths | LeetCode | Dynamic Programming | Medium | Java |
+
+| 172 | 63. Unique Paths II | LeetCode | Dynamic Programming | Medium | Java |
