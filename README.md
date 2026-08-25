@@ -340,3 +340,5 @@
 | 168 | GFG. Tower Of Hanoi | GeeksforGeeks | Recursion | N/A | Java |
 
 | 169 | 779. K-th Symbol in Grammar | LeetCode | Recursion | Medium | Java |
+
+| 170 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Java |
