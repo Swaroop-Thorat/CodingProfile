@@ -346,3 +346,5 @@
 | 171 | 62. Unique Paths | LeetCode | Dynamic Programming | Medium | Java |
 
 | 172 | 63. Unique Paths II | LeetCode | Dynamic Programming | Medium | Java |
+
+| 173 | GFG. Triplets with Sum in Range | GeeksforGeeks | Sorting | N/A | Java |
