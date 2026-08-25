@@ -348,3 +348,5 @@
 | 172 | 63. Unique Paths II | LeetCode | Dynamic Programming | Medium | Java |
 
 | 173 | GFG. Triplets with Sum in Range | GeeksforGeeks | Sorting | N/A | Java |
+
+| 174 | 241. Different Ways to Add Parentheses | LeetCode | Recursion | Medium | Java |
