@@ -350,3 +350,5 @@
 | 173 | GFG. Triplets with Sum in Range | GeeksforGeeks | Sorting | N/A | Java |
 
 | 174 | 241. Different Ways to Add Parentheses | LeetCode | Recursion | Medium | Java |
+
+| 175 | 394. Decode String | LeetCode | Stack | Medium | Java |
