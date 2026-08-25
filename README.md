@@ -342,3 +342,5 @@
 | 169 | 779. K-th Symbol in Grammar | LeetCode | Recursion | Medium | Java |
 
 | 170 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Java |
+
+| 171 | 62. Unique Paths | LeetCode | Dynamic Programming | Medium | Java |
