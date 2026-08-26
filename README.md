@@ -354,3 +354,5 @@
 | 175 | 394. Decode String | LeetCode | Stack | Medium | Java |
 
 | 176 | 784. Letter Case Permutation | LeetCode | Backtracking | Medium | Java |
+
+| 177 | 1863. Sum of All Subset XOR Totals | LeetCode | Backtracking | Easy | Java |
