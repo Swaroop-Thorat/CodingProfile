@@ -360,3 +360,5 @@
 | 178 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Java |
 
 | 179 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Backtracking | Medium | Java |
+
+| 180 | 209. Minimum Size Subarray Sum | LeetCode | Binary Search | Medium | Java |
