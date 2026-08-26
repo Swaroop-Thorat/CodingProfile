@@ -362,3 +362,5 @@
 | 179 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Backtracking | Medium | Java |
 
 | 180 | 209. Minimum Size Subarray Sum | LeetCode | Binary Search | Medium | Java |
+
+| 181 | 1415. The k-th Lexicographical String of All Happy Strings of Length n | LeetCode | Backtracking | Medium | Java |
