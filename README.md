@@ -331,7 +331,7 @@
 
 | 164 | 567. Permutation in String | LeetCode | Hash Table | Medium | Java |
 
-| 165 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Java |
+| 165 | 1004. Max Consecutive Ones III | LeetCode | Binary Search | Medium | Java |
 
 | 166 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Java |
 
