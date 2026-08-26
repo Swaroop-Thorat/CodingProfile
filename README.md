@@ -358,3 +358,5 @@
 | 177 | 1863. Sum of All Subset XOR Totals | LeetCode | Backtracking | Easy | Java |
 
 | 178 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Java |
+
+| 179 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Backtracking | Medium | Java |
