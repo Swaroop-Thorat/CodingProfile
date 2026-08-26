@@ -356,3 +356,5 @@
 | 176 | 784. Letter Case Permutation | LeetCode | Backtracking | Medium | Java |
 
 | 177 | 1863. Sum of All Subset XOR Totals | LeetCode | Backtracking | Easy | Java |
+
+| 178 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Java |
