@@ -374,3 +374,5 @@
 | 185 | 78. Subsets | LeetCode | Backtracking | Medium | Java |
 
 | 186 | 90. Subsets II | LeetCode | Backtracking | Medium | Java |
+
+| 187 | 46. Permutations | LeetCode | Backtracking | Medium | Java |
