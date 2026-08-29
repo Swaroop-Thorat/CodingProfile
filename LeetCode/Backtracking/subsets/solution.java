@@ -13,9 +13,7 @@ class Solution {
 
         list.add(nums[idx]);
         backtracking(nums,idx+1);
-        if(list.size()>0){
-            list.remove(list.size()-1);
-        }
+        if(!list.isEmpty()) list.removeLast();
         backtracking(nums,idx+1);
     }
 }
