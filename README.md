@@ -392,3 +392,5 @@
 | 194 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Java |
 
 | 195 | 4035. Maximum Valid Split Positions I | LeetCode | Prefix Sum | Medium | Java |
+
+| 196 | 238. Product of Array Except Self | LeetCode | Prefix Sum | Medium | Java |
