@@ -390,3 +390,5 @@
 | 193 | 64. Minimum Path Sum | LeetCode | Dynamic Programming | Medium | Java |
 
 | 194 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Java |
+
+| 195 | 4035. Maximum Valid Split Positions I | LeetCode | Prefix Sum | Medium | Java |
