@@ -386,3 +386,5 @@
 | 191 | 523. Continuous Subarray Sum | LeetCode | Hash Table | Medium | Java |
 
 | 192 | 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points | LeetCode | Linked List | Medium | Java |
+
+| 193 | 64. Minimum Path Sum | LeetCode | Dynamic Programming | Medium | Java |
