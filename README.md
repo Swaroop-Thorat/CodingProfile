@@ -382,3 +382,5 @@
 | 189 | 93. Restore IP Addresses | LeetCode | Backtracking | Medium | Java |
 
 | 190 | GFG. Subarrays with equal 1s and 0s | GeeksforGeeks | Hash | N/A | Java |
+
+| 191 | 523. Continuous Subarray Sum | LeetCode | Hash Table | Medium | Java |
