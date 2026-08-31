@@ -388,3 +388,5 @@
 | 192 | 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points | LeetCode | Linked List | Medium | Java |
 
 | 193 | 64. Minimum Path Sum | LeetCode | Dynamic Programming | Medium | Java |
+
+| 194 | 668. Kth Smallest Number in Multiplication Table | LeetCode | Binary Search | Hard | Java |
