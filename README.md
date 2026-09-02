@@ -404,3 +404,5 @@
 | 200 | C. Similar Pairs | Codeforces | *1100 | N/A | Java |
 
 | 201 | B. Chat Order | Codeforces | *1200 | N/A | Java |
+
+| 202 | D. Pair of Topics | Codeforces | *1400 | N/A | Java |
