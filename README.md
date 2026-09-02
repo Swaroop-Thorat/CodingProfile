@@ -396,3 +396,5 @@
 | 196 | 238. Product of Array Except Self | LeetCode | Prefix Sum | Medium | Java |
 
 | 197 | GFG. Substring with Equal 0, 1 and 2 | GeeksforGeeks | Hash | N/A | Java |
+
+| 198 | A. Bear and Big Brother | Codeforces | *800 | N/A | Java |
