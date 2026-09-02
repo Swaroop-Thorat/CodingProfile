@@ -402,3 +402,5 @@
 | 199 | B. Array Cloning Technique | Codeforces | *900 | N/A | Java |
 
 | 200 | C. Similar Pairs | Codeforces | *1100 | N/A | Java |
+
+| 201 | B. Chat Order | Codeforces | *1200 | N/A | Java |
