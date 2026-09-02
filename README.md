@@ -406,3 +406,5 @@
 | 201 | B. Chat Order | Codeforces | *1200 | N/A | Java |
 
 | 202 | D. Pair of Topics | Codeforces | *1400 | N/A | Java |
+
+| 203 | 1248. Count Number of Nice Subarrays | LeetCode | Hash Table | Medium | Java |
