@@ -400,3 +400,5 @@
 | 198 | A. Bear and Big Brother | Codeforces | *800 | N/A | Java |
 
 | 199 | B. Array Cloning Technique | Codeforces | *900 | N/A | Java |
+
+| 200 | C. Similar Pairs | Codeforces | *1100 | N/A | Java |
