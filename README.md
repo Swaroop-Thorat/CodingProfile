@@ -398,3 +398,5 @@
 | 197 | GFG. Substring with Equal 0, 1 and 2 | GeeksforGeeks | Hash | N/A | Java |
 
 | 198 | A. Bear and Big Brother | Codeforces | *800 | N/A | Java |
+
+| 199 | B. Array Cloning Technique | Codeforces | *900 | N/A | Java |
