@@ -410,3 +410,5 @@
 | 203 | 1248. Count Number of Nice Subarrays | LeetCode | Hash Table | Medium | Java |
 
 | 204 | 992. Subarrays with K Different Integers | LeetCode | Sliding Window | Hard | Java |
+
+| 205 | 3876. Construct Uniform Parity Array II | LeetCode | Array | Medium | Java |
