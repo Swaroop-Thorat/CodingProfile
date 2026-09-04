@@ -422,3 +422,5 @@
 | 209 | GFG. Longest Palindromic Subsequence | GeeksforGeeks | Memoization | N/A | Java |
 
 | 210 | GFG. Preorder to BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
+
+| 211 | 1448. Count Good Nodes in Binary Tree | LeetCode | Binary Tree | Medium | Java |
