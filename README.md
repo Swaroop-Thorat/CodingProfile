@@ -414,3 +414,5 @@
 | 205 | 3876. Construct Uniform Parity Array II | LeetCode | Array | Medium | Java |
 
 | 206 | 215. Kth Largest Element in an Array | LeetCode | Heap (Priority Queue) | Medium | Java |
+
+| 207 | GFG. Capacity To Ship Packages Within d Days | GeeksforGeeks | Binary Search | N/A | Java |
