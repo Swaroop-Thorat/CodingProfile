@@ -416,3 +416,5 @@
 | 206 | 215. Kth Largest Element in an Array | LeetCode | Heap (Priority Queue) | Medium | Java |
 
 | 207 | GFG. Capacity To Ship Packages Within d Days | GeeksforGeeks | Binary Search | N/A | Java |
+
+| 208 | GFG. Min Steps by Knight | GeeksforGeeks | BFS | N/A | Java |
