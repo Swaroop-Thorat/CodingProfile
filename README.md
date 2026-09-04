@@ -424,3 +424,5 @@
 | 210 | GFG. Preorder to BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
 
 | 211 | 1448. Count Good Nodes in Binary Tree | LeetCode | Binary Tree | Medium | Java |
+
+| 212 | 3903. Smallest Stable Index I | LeetCode | Array | Easy | Java |
