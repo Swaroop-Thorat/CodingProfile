@@ -426,3 +426,5 @@
 | 211 | 1448. Count Good Nodes in Binary Tree | LeetCode | Binary Tree | Medium | Java |
 
 | 212 | 3903. Smallest Stable Index I | LeetCode | Array | Easy | Java |
+
+| 213 | 5. Longest Palindromic Substring | LeetCode | Two Pointers | Medium | Java |
