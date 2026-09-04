@@ -420,3 +420,5 @@
 | 208 | GFG. Min Steps by Knight | GeeksforGeeks | BFS | N/A | Java |
 
 | 209 | GFG. Longest Palindromic Subsequence | GeeksforGeeks | Memoization | N/A | Java |
+
+| 210 | GFG. Preorder to BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
