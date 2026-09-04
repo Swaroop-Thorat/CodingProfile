@@ -418,3 +418,5 @@
 | 207 | GFG. Capacity To Ship Packages Within d Days | GeeksforGeeks | Binary Search | N/A | Java |
 
 | 208 | GFG. Min Steps by Knight | GeeksforGeeks | BFS | N/A | Java |
+
+| 209 | GFG. Longest Palindromic Subsequence | GeeksforGeeks | Memoization | N/A | Java |
