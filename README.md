@@ -428,3 +428,5 @@
 | 212 | 3903. Smallest Stable Index I | LeetCode | Array | Easy | Java |
 
 | 213 | 5. Longest Palindromic Substring | LeetCode | Two Pointers | Medium | Java |
+
+| 214 | 2125. Number of Laser Beams in a Bank | LeetCode | Greedy | Medium | Java |
