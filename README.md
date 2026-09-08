@@ -432,3 +432,5 @@
 | 214 | 2125. Number of Laser Beams in a Bank | LeetCode | Greedy | Medium | Java |
 
 | 215 | 918. Maximum Sum Circular Subarray | LeetCode | Array | Medium | Java |
+
+| 216 | 1392. Longest Happy Prefix | LeetCode | Knuth–Morris–Pratt Algorithm | Hard | Java |
