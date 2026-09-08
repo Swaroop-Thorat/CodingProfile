@@ -25,14 +25,14 @@ class Solution {
         st.push(root);
         while(!st.isEmpty()){
             Node node=st.pop();
-            list.add(0,node.val);
+            list.add(node.val);
             for(Node child:node.children){
                 if(child!=null){
                     st.push(child);
                 }
             }
         }
-
+        Collections.reverse(list);
         return list;
     }
 }
