@@ -436,3 +436,5 @@
 | 216 | 1392. Longest Happy Prefix | LeetCode | Knuth–Morris–Pratt Algorithm | Hard | Java |
 
 | 217 | GFG. Kth Ancestor in a Tree | GeeksforGeeks | Tree | N/A | Java |
+
+| 218 | 1483. Kth Ancestor of a Tree Node | LeetCode | Binary Lifting | Hard | Java |
