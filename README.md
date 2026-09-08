@@ -434,3 +434,5 @@
 | 215 | 918. Maximum Sum Circular Subarray | LeetCode | Array | Medium | Java |
 
 | 216 | 1392. Longest Happy Prefix | LeetCode | Knuth–Morris–Pratt Algorithm | Hard | Java |
+
+| 217 | GFG. Kth Ancestor in a Tree | GeeksforGeeks | Tree | N/A | Java |
