@@ -444,3 +444,5 @@
 | 220 | 590. N-ary Tree Postorder Traversal | LeetCode | Tree | Easy | Java |
 
 | 221 | 1123. Lowest Common Ancestor of Deepest Leaves | LeetCode | Binary Tree | Medium | Java |
+
+| 222 | 865. Smallest Subtree with all the Deepest Nodes | LeetCode | Binary Tree | Medium | Java |
