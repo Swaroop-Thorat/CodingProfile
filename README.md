@@ -440,3 +440,5 @@
 | 218 | 1483. Kth Ancestor of a Tree Node | LeetCode | Binary Lifting | Hard | Java |
 
 | 219 | 589. N-ary Tree Preorder Traversal | LeetCode | Tree | Easy | Java |
+
+| 220 | 590. N-ary Tree Postorder Traversal | LeetCode | Tree | Easy | Java |
