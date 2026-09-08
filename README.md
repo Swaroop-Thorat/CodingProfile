@@ -442,3 +442,5 @@
 | 219 | 589. N-ary Tree Preorder Traversal | LeetCode | Tree | Easy | Java |
 
 | 220 | 590. N-ary Tree Postorder Traversal | LeetCode | Tree | Easy | Java |
+
+| 221 | 1123. Lowest Common Ancestor of Deepest Leaves | LeetCode | Binary Tree | Medium | Java |
