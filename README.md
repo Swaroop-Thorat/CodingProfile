@@ -438,3 +438,5 @@
 | 217 | GFG. Kth Ancestor in a Tree | GeeksforGeeks | Tree | N/A | Java |
 
 | 218 | 1483. Kth Ancestor of a Tree Node | LeetCode | Binary Lifting | Hard | Java |
+
+| 219 | 589. N-ary Tree Preorder Traversal | LeetCode | Tree | Easy | Java |
