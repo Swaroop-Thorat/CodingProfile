@@ -452,3 +452,5 @@
 | 224 | GFG. 0 - 1 Knapsack Problem | GeeksforGeeks | Dynamic Programming | N/A | Java |
 
 | 225 | 300. Longest Increasing Subsequence | LeetCode | Dynamic Programming | Medium | Java |
+
+| 226 | 1143. Longest Common Subsequence | LeetCode | Dynamic Programming | Medium | Java |
