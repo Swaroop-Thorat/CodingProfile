@@ -450,3 +450,5 @@
 | 223 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | Java |
 
 | 224 | GFG. 0 - 1 Knapsack Problem | GeeksforGeeks | Dynamic Programming | N/A | Java |
+
+| 225 | 300. Longest Increasing Subsequence | LeetCode | Dynamic Programming | Medium | Java |
