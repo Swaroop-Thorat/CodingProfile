@@ -448,3 +448,5 @@
 | 222 | 865. Smallest Subtree with all the Deepest Nodes | LeetCode | Binary Tree | Medium | Java |
 
 | 223 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | Java |
+
+| 224 | GFG. 0 - 1 Knapsack Problem | GeeksforGeeks | Dynamic Programming | N/A | Java |
