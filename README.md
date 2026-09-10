@@ -454,3 +454,5 @@
 | 225 | 300. Longest Increasing Subsequence | LeetCode | Dynamic Programming | Medium | Java |
 
 | 226 | 1143. Longest Common Subsequence | LeetCode | Dynamic Programming | Medium | Java |
+
+| 227 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Java |
