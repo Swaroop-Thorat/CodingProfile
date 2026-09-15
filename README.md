@@ -456,3 +456,5 @@
 | 226 | 1143. Longest Common Subsequence | LeetCode | Dynamic Programming | Medium | Java |
 
 | 227 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Java |
+
+| 228 | 2894. Divisible and Non-divisible Sums Difference | LeetCode | Math | Easy | Java |
