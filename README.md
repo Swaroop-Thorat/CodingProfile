@@ -458,3 +458,5 @@
 | 227 | 2265. Count Nodes Equal to Average of Subtree | LeetCode | Binary Tree | Medium | Java |
 
 | 228 | 2894. Divisible and Non-divisible Sums Difference | LeetCode | Math | Easy | Java |
+
+| 229 | 1920. Build Array from Permutation | LeetCode | Simulation | Easy | Java |
