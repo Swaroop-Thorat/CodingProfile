@@ -460,3 +460,5 @@
 | 228 | 2894. Divisible and Non-divisible Sums Difference | LeetCode | Math | Easy | Java |
 
 | 229 | 1920. Build Array from Permutation | LeetCode | Simulation | Easy | Java |
+
+| 230 | 3701. Compute Alternating Sum | LeetCode | Simulation | Easy | Java |
