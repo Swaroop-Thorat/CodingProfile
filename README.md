@@ -462,3 +462,5 @@
 | 229 | 1920. Build Array from Permutation | LeetCode | Simulation | Easy | Java |
 
 | 230 | 3701. Compute Alternating Sum | LeetCode | Simulation | Easy | Java |
+
+| 231 | 3498. Reverse Degree of a String | LeetCode | Simulation | Easy | Java |
