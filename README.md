@@ -466,3 +466,5 @@
 | 231 | 3498. Reverse Degree of a String | LeetCode | Simulation | Easy | Java |
 
 | 232 | 3446. Sort Matrix by Diagonals | LeetCode | Sorting | Medium | Java |
+
+| 233 | 2011. Final Value of Variable After Performing Operations | LeetCode | Simulation | Easy | Java |
