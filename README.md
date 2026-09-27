@@ -468,3 +468,5 @@
 | 232 | 3446. Sort Matrix by Diagonals | LeetCode | Sorting | Medium | Java |
 
 | 233 | 2011. Final Value of Variable After Performing Operations | LeetCode | Simulation | Easy | Java |
+
+| 234 | 1190. Reverse Substrings Between Each Pair of Parentheses | LeetCode | Stack | Medium | Java |
