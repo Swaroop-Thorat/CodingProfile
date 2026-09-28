@@ -470,3 +470,5 @@
 | 233 | 2011. Final Value of Variable After Performing Operations | LeetCode | Simulation | Easy | Java |
 
 | 234 | 1190. Reverse Substrings Between Each Pair of Parentheses | LeetCode | Stack | Medium | Java |
+
+| 235 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | Stack | Easy | Java |
