@@ -472,3 +472,5 @@
 | 234 | 1190. Reverse Substrings Between Each Pair of Parentheses | LeetCode | Stack | Medium | Java |
 
 | 235 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | Stack | Easy | Java |
+
+| 236 | 114. Flatten Binary Tree to Linked List | LeetCode | Binary Tree | Medium | Java |
