@@ -488,3 +488,5 @@
 | 242 | 213. House Robber II | LeetCode | Dynamic Programming | Medium | Java |
 
 | 243 | 337. House Robber III | LeetCode | Binary Tree | Medium | Java |
+
+| 244 | 116. Populating Next Right Pointers in Each Node | LeetCode | Binary Tree | Medium | Java |
