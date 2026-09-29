@@ -482,3 +482,5 @@
 | 239 | 230. Kth Smallest Element in a BST | LeetCode | Binary Search Tree | Medium | Java |
 
 | 240 | GFG. Kth Largest in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
+
+| 241 | 863. All Nodes Distance K in Binary Tree | LeetCode | Binary Tree | Medium | Java |
