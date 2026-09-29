@@ -474,3 +474,5 @@
 | 235 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | Stack | Easy | Java |
 
 | 236 | 114. Flatten Binary Tree to Linked List | LeetCode | Binary Tree | Medium | Java |
+
+| 237 | 652. Find Duplicate Subtrees | LeetCode | Binary Tree | Medium | Java |
