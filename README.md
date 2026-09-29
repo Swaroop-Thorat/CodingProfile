@@ -490,3 +490,5 @@
 | 243 | 337. House Robber III | LeetCode | Binary Tree | Medium | Java |
 
 | 244 | 116. Populating Next Right Pointers in Each Node | LeetCode | Binary Tree | Medium | Java |
+
+| 245 | 117. Populating Next Right Pointers in Each Node II | LeetCode | Binary Tree | Medium | Java |
