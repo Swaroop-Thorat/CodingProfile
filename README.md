@@ -480,3 +480,5 @@
 | 238 | 968. Binary Tree Cameras | LeetCode | Binary Tree | Hard | Java |
 
 | 239 | 230. Kth Smallest Element in a BST | LeetCode | Binary Search Tree | Medium | Java |
+
+| 240 | GFG. Kth Largest in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
