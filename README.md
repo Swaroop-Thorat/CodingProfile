@@ -478,3 +478,5 @@
 | 237 | 652. Find Duplicate Subtrees | LeetCode | Binary Tree | Medium | Java |
 
 | 238 | 968. Binary Tree Cameras | LeetCode | Binary Tree | Hard | Java |
+
+| 239 | 230. Kth Smallest Element in a BST | LeetCode | Binary Search Tree | Medium | Java |
