@@ -492,3 +492,5 @@
 | 244 | 116. Populating Next Right Pointers in Each Node | LeetCode | Binary Tree | Medium | Java |
 
 | 245 | 117. Populating Next Right Pointers in Each Node II | LeetCode | Binary Tree | Medium | Java |
+
+| 246 | 1372. Longest ZigZag Path in a Binary Tree | LeetCode | Binary Tree | Medium | Java |
