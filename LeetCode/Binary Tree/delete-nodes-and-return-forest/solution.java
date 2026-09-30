@@ -14,32 +14,36 @@
  * }
  */
 class Solution {
-    long max=Long.MIN_VALUE;
-    long MOD=(long)(1e9)+7;
-    public int maxProduct(TreeNode root) {
-        int total=findTotalSum(root);
-        dfs(root,total);
-        return (int) (max%MOD);
+    public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
+        Set<Integer> set=new HashSet<>();
+        for(int i:to_delete){
+            set.add(i);
+        }
+
+        List<TreeNode> list=new ArrayList<>();
+        dfs(root,set,list);
+        if(!set.contains(root.val)) list.add(root);
+        return list;
     }
-    int dfs(TreeNode root,int total){
-        if(root==null) return 0;
+    TreeNode dfs(TreeNode root,Set<Integer> set,List<TreeNode> list){
+        if(root==null) return null;
 
-        int left=dfs(root.left,total);
-        int right=dfs(root.right,total);
+        TreeNode left=dfs(root.left,set,list);
+        TreeNode right=dfs(root.right,set,list);
 
-        long sum=left+right+root.val;
+        if(set.contains(root.val)){
+            if(left!=null){
+                list.add(left);
+            }
+            
+            if(right!=null){
+                list.add(right);
+            }
+            return null;
+        }
 
-        long rem=total-sum;
-
-        max=Math.max(sum*rem,max);
-
-        return (int) sum;
-    }
-    int findTotalSum(TreeNode root){
-        if(root==null) return 0;
-        int left=findTotalSum(root.left);
-        int right=findTotalSum(root.right);
-
-        return left+right+root.val;
+        root.left=left;
+        root.right=right;
+        return root;
     }
 }
