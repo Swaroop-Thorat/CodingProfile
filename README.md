@@ -500,3 +500,5 @@
 | 248 | 700. Search in a Binary Search Tree | LeetCode | Binary Search Tree | Easy | Java |
 
 | 249 | 701. Insert into a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
+
+| 250 | 1110. Delete Nodes And Return Forest | LeetCode | Binary Tree | Medium | Java |
