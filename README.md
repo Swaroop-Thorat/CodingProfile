@@ -511,4 +511,4 @@
 
 | 254 | 1111. Maximum Nesting Depth of Two Valid Parentheses Strings | LeetCode | Stack | Medium | Java |
 
-| 255 | 10. Regular Expression Matching | LeetCode | Recursion | Hard | Java |
+| 255 | 10. Regular Expression Matching | LeetCode | Dynamic Programming | Hard | Java |
