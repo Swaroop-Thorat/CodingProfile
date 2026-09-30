@@ -510,3 +510,5 @@
 | 253 | 97. Interleaving String | LeetCode | Dynamic Programming | Medium | Java |
 
 | 254 | 1111. Maximum Nesting Depth of Two Valid Parentheses Strings | LeetCode | Stack | Medium | Java |
+
+| 255 | 10. Regular Expression Matching | LeetCode | Recursion | Hard | Java |
