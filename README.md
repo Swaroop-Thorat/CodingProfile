@@ -502,3 +502,5 @@
 | 249 | 701. Insert into a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
 
 | 250 | 1110. Delete Nodes And Return Forest | LeetCode | Binary Tree | Medium | Java |
+
+| 251 | 450. Delete Node in a BST | LeetCode | Binary Search Tree | Medium | Java |
