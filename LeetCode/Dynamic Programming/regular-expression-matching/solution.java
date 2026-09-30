@@ -5,19 +5,19 @@ class Solution {
         return f(s,p,0,0);
     }
     boolean f(String s, String p,int i, int j){
-        if(i==s.length() && j==p.length()) return memo[i][j]=true;
+        if(i==s.length() && j==p.length()) return true;
         
-        if(j>=p.length()) return memo[i][j]=false;
+        if(j>=p.length()) return false;
          
         if(memo[i][j]!=null) return memo[i][j];
         if(i>=s.length()){
             if(j+1<p.length()){
                 if(p.charAt(j)=='*'){
-                    return memo[i][j]=f(s,p,i,j+2);
+                    return f(s,p,i,j+2);
                 }
             }
             else{
-                return memo[i][j]=false;
+                return false;
             }
         }
         
@@ -32,6 +32,6 @@ class Solution {
         }
       
         if(match) return memo[i][j]=f(s,p,i+1,j+1);
-        return memo[i][j]=false;
+        return false;
     }
 }
