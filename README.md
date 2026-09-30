@@ -496,3 +496,5 @@
 | 246 | 1372. Longest ZigZag Path in a Binary Tree | LeetCode | Binary Tree | Medium | Java |
 
 | 247 | 235. Lowest Common Ancestor of a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
+
+| 248 | 700. Search in a Binary Search Tree | LeetCode | Binary Search Tree | Easy | Java |
