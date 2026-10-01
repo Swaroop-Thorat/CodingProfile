@@ -520,3 +520,5 @@
 | 258 | 669. Trim a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
 
 | 259 | 538. Convert BST to Greater Tree | LeetCode | Binary Search Tree | Medium | Java |
+
+| 260 | 99. Recover Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
