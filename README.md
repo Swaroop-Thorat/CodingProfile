@@ -514,3 +514,5 @@
 | 255 | 10. Regular Expression Matching | LeetCode | Dynamic Programming | Hard | Java |
 
 | 256 | GFG. Floor in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
+
+| 257 | GFG. Ceil in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
