@@ -516,3 +516,5 @@
 | 256 | GFG. Floor in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
 
 | 257 | GFG. Ceil in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
+
+| 258 | 669. Trim a Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
