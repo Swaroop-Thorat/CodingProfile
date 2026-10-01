@@ -522,3 +522,5 @@
 | 259 | 538. Convert BST to Greater Tree | LeetCode | Binary Search Tree | Medium | Java |
 
 | 260 | 99. Recover Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
+
+| 261 | 47. Permutations II | LeetCode | Backtracking | Medium | Java |
