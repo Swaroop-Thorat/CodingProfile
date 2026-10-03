@@ -530,3 +530,5 @@
 | 263 | 72. Edit Distance | LeetCode | Dynamic Programming | Medium | Java |
 
 | 264 | 120. Triangle | LeetCode | Dynamic Programming | Medium | Java |
+
+| 265 | 131. Palindrome Partitioning | LeetCode | Backtracking | Medium | Java |
