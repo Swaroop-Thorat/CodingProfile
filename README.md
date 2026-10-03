@@ -528,3 +528,5 @@
 | 262 | 44. Wildcard Matching | LeetCode | Dynamic Programming | Hard | Java |
 
 | 263 | 72. Edit Distance | LeetCode | Dynamic Programming | Medium | Java |
+
+| 264 | 120. Triangle | LeetCode | Dynamic Programming | Medium | Java |
