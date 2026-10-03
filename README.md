@@ -532,3 +532,5 @@
 | 264 | 120. Triangle | LeetCode | Dynamic Programming | Medium | Java |
 
 | 265 | 131. Palindrome Partitioning | LeetCode | Backtracking | Medium | Java |
+
+| 266 | 139. Word Break | LeetCode | Dynamic Programming | Medium | Java |
