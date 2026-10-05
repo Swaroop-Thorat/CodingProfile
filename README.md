@@ -540,3 +540,5 @@
 | 268 | 1277. Count Square Submatrices with All Ones | LeetCode | Dynamic Programming | Medium | Java |
 
 | 269 | 930. Binary Subarrays With Sum | LeetCode | Sliding Window | Medium | Java |
+
+| 270 | 2302. Count Subarrays With Score Less Than K | LeetCode | Sliding Window | Hard | Java |
