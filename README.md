@@ -538,3 +538,5 @@
 | 267 | 856. Score of Parentheses | LeetCode | Stack | Medium | Java |
 
 | 268 | 1277. Count Square Submatrices with All Ones | LeetCode | Dynamic Programming | Medium | Java |
+
+| 269 | 930. Binary Subarrays With Sum | LeetCode | Sliding Window | Medium | Java |
