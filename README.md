@@ -534,3 +534,5 @@
 | 265 | 131. Palindrome Partitioning | LeetCode | Backtracking | Medium | Java |
 
 | 266 | 139. Word Break | LeetCode | Dynamic Programming | Medium | Java |
+
+| 267 | 856. Score of Parentheses | LeetCode | Stack | Medium | Java |
