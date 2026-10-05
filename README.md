@@ -536,3 +536,5 @@
 | 266 | 139. Word Break | LeetCode | Dynamic Programming | Medium | Java |
 
 | 267 | 856. Score of Parentheses | LeetCode | Stack | Medium | Java |
+
+| 268 | 1277. Count Square Submatrices with All Ones | LeetCode | Dynamic Programming | Medium | Java |
