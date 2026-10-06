@@ -548,3 +548,5 @@
 | 272 | GFG. Rotten Oranges | GeeksforGeeks | Graph | N/A | Java |
 
 | 273 | 921. Minimum Add to Make Parentheses Valid | LeetCode | Stack | Medium | Java |
+
+| 274 | 40. Combination Sum II | LeetCode | Backtracking | Medium | Java |
