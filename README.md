@@ -554,3 +554,5 @@
 | 275 | 222. Count Complete Tree Nodes | LeetCode | Binary Tree | Medium | Java |
 
 | 276 | 732. My Calendar III | LeetCode | Prefix Sum | Hard | Java |
+
+| 277 | 301. Remove Invalid Parentheses | LeetCode | Backtracking | Hard | Java |
