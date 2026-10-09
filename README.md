@@ -557,4 +557,4 @@
 
 | 277 | 301. Remove Invalid Parentheses | LeetCode | Backtracking | Hard | Java |
 
-| 278 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | Stack | Medium | Java |
+| 278 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | Greedy | Medium | Java |
