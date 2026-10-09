@@ -556,3 +556,5 @@
 | 276 | 732. My Calendar III | LeetCode | Prefix Sum | Hard | Java |
 
 | 277 | 301. Remove Invalid Parentheses | LeetCode | Backtracking | Hard | Java |
+
+| 278 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | Stack | Medium | Java |
