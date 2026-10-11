@@ -558,3 +558,5 @@
 | 277 | 301. Remove Invalid Parentheses | LeetCode | Backtracking | Hard | Java |
 
 | 278 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | Greedy | Medium | Java |
+
+| 279 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
