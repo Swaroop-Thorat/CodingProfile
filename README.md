@@ -560,3 +560,5 @@
 | 278 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | Greedy | Medium | Java |
 
 | 279 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
+
+| 280 | 4079. Prime Subset Selection I | LeetCode | Sieve of Eratosthenes | Medium | Java |
