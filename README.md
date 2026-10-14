@@ -564,3 +564,5 @@
 | 280 | 4079. Prime Subset Selection I | LeetCode | Sieve of Eratosthenes | Medium | Java |
 
 | 281 | 3727. Maximum Alternating Sum of Squares | LeetCode | Greedy | Medium | Java |
+
+| 282 | 3723. Maximize Sum of Squares of Digits | LeetCode | Greedy | Medium | Java |
