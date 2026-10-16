@@ -543,7 +543,7 @@
 
 | 270 | 2302. Count Subarrays With Score Less Than K | LeetCode | Sliding Window | Hard | Java |
 
-| 271 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | Java |
+| 271 | 200. Number of Islands | LeetCode | Breadth-First Search | Medium | Java |
 
 | 272 | GFG. Rotten Oranges | GeeksforGeeks | Graph | N/A | Java |
 
