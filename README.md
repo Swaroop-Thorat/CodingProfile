@@ -577,4 +577,4 @@
 
 | 287 | 260. Single Number III | LeetCode | Array | Medium | Java |
 
-| 288 | 1559. Detect Cycles in 2D Grid | LeetCode | Depth-First Search | Medium | Java |
+| 288 | 1559. Detect Cycles in 2D Grid | LeetCode | Breadth-First Search | Medium | Java |
