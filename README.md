@@ -570,3 +570,5 @@
 | 283 | GFG. BFS of Graph | GeeksforGeeks | Graph | N/A | Java |
 
 | 284 | GFG. DFS of Graph | GeeksforGeeks | Graph | N/A | Java |
+
+| 285 | GFG. Undirected Graph Cycle | GeeksforGeeks | Graph | N/A | Java |
