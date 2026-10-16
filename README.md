@@ -568,3 +568,5 @@
 | 282 | 3723. Maximize Sum of Squares of Digits | LeetCode | Greedy | Medium | Java |
 
 | 283 | GFG. BFS of Graph | GeeksforGeeks | Graph | N/A | Java |
+
+| 284 | GFG. DFS of Graph | GeeksforGeeks | Graph | N/A | Java |
