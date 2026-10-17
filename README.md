@@ -584,3 +584,5 @@
 | 290 | 210. Course Schedule II | LeetCode | Graph Theory | Medium | Java |
 
 | 291 | GFG. Alien Dictionary | GeeksforGeeks | Graph | N/A | Java |
+
+| 292 | 3551. Minimum Swaps to Sort by Digit Sum | LeetCode | Sorting | Medium | Java |
