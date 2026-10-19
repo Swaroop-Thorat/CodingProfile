@@ -592,3 +592,5 @@
 | 294 | C. Rumor | Codeforces | *1300 | N/A | Java |
 
 | 295 | GFG. Dijkstra Algorithm | GeeksforGeeks | Graph | N/A | Java |
+
+| 296 | 2089. Find Target Indices After Sorting Array | LeetCode | Sorting | Easy | Java |
