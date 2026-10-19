@@ -594,3 +594,5 @@
 | 295 | GFG. Dijkstra Algorithm | GeeksforGeeks | Graph | N/A | Java |
 
 | 296 | 2089. Find Target Indices After Sorting Array | LeetCode | Sorting | Easy | Java |
+
+| 297 | 743. Network Delay Time | LeetCode | Graph Theory | Medium | Java |
