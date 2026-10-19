@@ -596,3 +596,5 @@
 | 296 | 2089. Find Target Indices After Sorting Array | LeetCode | Sorting | Easy | Java |
 
 | 297 | 743. Network Delay Time | LeetCode | Graph Theory | Medium | Java |
+
+| 298 | 1631. Path With Minimum Effort | LeetCode | Matrix | Medium | Java |
