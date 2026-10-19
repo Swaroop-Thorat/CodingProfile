@@ -590,3 +590,5 @@
 | 293 | E. Cyclic Components | Codeforces | *1500 | N/A | Java |
 
 | 294 | C. Rumor | Codeforces | *1300 | N/A | Java |
+
+| 295 | GFG. Dijkstra Algorithm | GeeksforGeeks | Graph | N/A | Java |
