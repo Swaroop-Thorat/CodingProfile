@@ -602,3 +602,5 @@
 | 299 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
 
 | 300 | 787. Cheapest Flights Within K Stops | LeetCode | Graph Theory | Medium | Java |
+
+| 301 | 1609. Even Odd Tree | LeetCode | Binary Tree | Medium | Java |
