@@ -598,3 +598,5 @@
 | 297 | 743. Network Delay Time | LeetCode | Graph Theory | Medium | Java |
 
 | 298 | 1631. Path With Minimum Effort | LeetCode | Matrix | Medium | Java |
+
+| 299 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
