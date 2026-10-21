@@ -600,3 +600,5 @@
 | 298 | 1631. Path With Minimum Effort | LeetCode | Matrix | Medium | Java |
 
 | 299 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
+
+| 300 | 787. Cheapest Flights Within K Stops | LeetCode | Graph Theory | Medium | Java |
