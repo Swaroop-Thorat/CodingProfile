@@ -610,3 +610,5 @@
 | 303 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
 
 | 304 | 997. Find the Town Judge | LeetCode | Graph Theory | Easy | Java |
+
+| 305 | 841. Keys and Rooms | LeetCode | Graph Theory | Medium | Java |
