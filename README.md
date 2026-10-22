@@ -604,3 +604,5 @@
 | 300 | 787. Cheapest Flights Within K Stops | LeetCode | Graph Theory | Medium | Java |
 
 | 301 | 1609. Even Odd Tree | LeetCode | Binary Tree | Medium | Java |
+
+| 302 | 3942. Minimum Operations to Sort a Permutation | LeetCode | Array | Medium | Java |
