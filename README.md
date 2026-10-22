@@ -606,3 +606,5 @@
 | 301 | 1609. Even Odd Tree | LeetCode | Binary Tree | Medium | Java |
 
 | 302 | 3942. Minimum Operations to Sort a Permutation | LeetCode | Array | Medium | Java |
+
+| 303 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
