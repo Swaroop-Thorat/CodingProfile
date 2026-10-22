@@ -612,3 +612,5 @@
 | 304 | 997. Find the Town Judge | LeetCode | Graph Theory | Easy | Java |
 
 | 305 | 841. Keys and Rooms | LeetCode | Graph Theory | Medium | Java |
+
+| 306 | 797. All Paths From Source to Target | LeetCode | Graph Theory | Medium | Java |
