@@ -608,3 +608,5 @@
 | 302 | 3942. Minimum Operations to Sort a Permutation | LeetCode | Array | Medium | Java |
 
 | 303 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
+
+| 304 | 997. Find the Town Judge | LeetCode | Graph Theory | Easy | Java |
