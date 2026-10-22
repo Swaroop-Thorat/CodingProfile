@@ -614,3 +614,5 @@
 | 305 | 841. Keys and Rooms | LeetCode | Graph Theory | Medium | Java |
 
 | 306 | 797. All Paths From Source to Target | LeetCode | Graph Theory | Medium | Java |
+
+| 307 | 1557. Minimum Number of Vertices to Reach All Nodes | LeetCode | Graph Theory | Medium | Java |
