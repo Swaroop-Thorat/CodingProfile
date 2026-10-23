@@ -622,3 +622,5 @@
 | 309 | 1905. Count Sub Islands | LeetCode | Matrix | Medium | Java |
 
 | 310 | 648. Replace Words | LeetCode | Hash Table | Medium | Java |
+
+| 311 | 684. Redundant Connection | LeetCode | Graph Theory | Medium | Java |
