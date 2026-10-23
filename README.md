@@ -626,3 +626,5 @@
 | 311 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Java |
 
 | 312 | 1319. Number of Operations to Make Network Connected | LeetCode | Union-Find | Medium | Java |
+
+| 313 | 990. Satisfiability of Equality Equations | LeetCode | Union-Find | Medium | Java |
