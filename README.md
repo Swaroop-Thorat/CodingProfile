@@ -624,3 +624,5 @@
 | 310 | 648. Replace Words | LeetCode | Hash Table | Medium | Java |
 
 | 311 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Java |
+
+| 312 | 1319. Number of Operations to Make Network Connected | LeetCode | Union-Find | Medium | Java |
