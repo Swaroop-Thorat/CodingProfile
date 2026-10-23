@@ -620,3 +620,5 @@
 | 308 | 1466. Reorder Routes to Make All Paths Lead to the City Zero | LeetCode | Graph Theory | Medium | Java |
 
 | 309 | 1905. Count Sub Islands | LeetCode | Matrix | Medium | Java |
+
+| 310 | 648. Replace Words | LeetCode | Hash Table | Medium | Java |
