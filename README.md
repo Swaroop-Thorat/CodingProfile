@@ -623,4 +623,4 @@
 
 | 310 | 648. Replace Words | LeetCode | Hash Table | Medium | Java |
 
-| 311 | 684. Redundant Connection | LeetCode | Graph Theory | Medium | Java |
+| 311 | 684. Redundant Connection | LeetCode | Union-Find | Medium | Java |
