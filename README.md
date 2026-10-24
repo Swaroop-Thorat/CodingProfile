@@ -632,3 +632,5 @@
 | 314 | 802. Find Eventual Safe States | LeetCode | Graph Theory | Medium | Java |
 
 | 315 | 1020. Number of Enclaves | LeetCode | Matrix | Medium | Java |
+
+| 316 | 2409. Count Days Spent Together | LeetCode | Math | Easy | Java |
