@@ -636,3 +636,5 @@
 | 316 | 2409. Count Days Spent Together | LeetCode | Math | Easy | Java |
 
 | 317 | 721. Accounts Merge | LeetCode | Union-Find | Medium | Java |
+
+| 318 | 951. Flip Equivalent Binary Trees | LeetCode | Binary Tree | Medium | Java |
