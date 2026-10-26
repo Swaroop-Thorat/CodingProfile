@@ -640,3 +640,5 @@
 | 318 | 951. Flip Equivalent Binary Trees | LeetCode | Binary Tree | Medium | Java |
 
 | 319 | 1254. Number of Closed Islands | LeetCode | Matrix | Medium | Java |
+
+| 320 | 3619. Count Islands With Total Value Divisible by K | LeetCode | Matrix | Medium | Java |
