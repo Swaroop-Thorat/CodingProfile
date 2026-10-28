@@ -648,3 +648,5 @@
 | 322 | 3882. Minimum XOR Path in a Grid | LeetCode | Dynamic Programming | Medium | Java |
 
 | 323 | 91. Decode Ways | LeetCode | Dynamic Programming | Medium | Java |
+
+| 324 | 79. Word Search | LeetCode | Backtracking | Medium | Java |
