@@ -644,3 +644,5 @@
 | 320 | 3619. Count Islands With Total Value Divisible by K | LeetCode | Matrix | Medium | Java |
 
 | 321 | 3963. Create Grid With Exactly One Path | LeetCode | Array | Easy | Java |
+
+| 322 | 3882. Minimum XOR Path in a Grid | LeetCode | Dynamic Programming | Medium | Java |
