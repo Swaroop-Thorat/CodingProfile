@@ -650,3 +650,5 @@
 | 323 | 91. Decode Ways | LeetCode | Dynamic Programming | Medium | Java |
 
 | 324 | 79. Word Search | LeetCode | Backtracking | Medium | Java |
+
+| 325 | 931. Minimum Falling Path Sum | LeetCode | Dynamic Programming | Medium | Java |
