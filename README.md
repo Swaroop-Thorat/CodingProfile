@@ -656,3 +656,5 @@
 | 326 | 322. Coin Change | LeetCode | Dynamic Programming | Medium | Java |
 
 | 327 | 518. Coin Change II | LeetCode | Dynamic Programming | Medium | Java |
+
+| 328 | 3665. Twisted Mirror Path Count | LeetCode | Dynamic Programming | Medium | Java |
