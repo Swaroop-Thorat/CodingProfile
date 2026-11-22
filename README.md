@@ -664,3 +664,5 @@
 | 330 | 462. Minimum Moves to Equal Array Elements II | LeetCode | Array | Medium | Java |
 
 | 331 | 3736. Minimum Moves to Equal Array Elements III | LeetCode | Array | Easy | Java |
+
+| 332 | 2124. Check if All A's Appears Before All B's | LeetCode | String | Easy | Java |
