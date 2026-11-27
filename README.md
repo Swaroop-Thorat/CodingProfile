@@ -670,3 +670,5 @@
 | 333 | 3360. Stone Removal Game | LeetCode | Simulation | Easy | Java |
 
 | 334 | GFG. Paint N Houses | GeeksforGeeks | Dynamic Programming | N/A | Java |
+
+| 335 | 3946. Maximum Number of Items From Sale I | LeetCode | Dynamic Programming | Medium | Java |
