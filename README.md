@@ -668,3 +668,5 @@
 | 332 | 2124. Check if All A's Appears Before All B's | LeetCode | String | Easy | Java |
 
 | 333 | 3360. Stone Removal Game | LeetCode | Simulation | Easy | Java |
+
+| 334 | GFG. Paint N Houses | GeeksforGeeks | Dynamic Programming | N/A | Java |
